@@ -1,0 +1,45 @@
+pm_id,asset_id,task,frequency_days,estimated_hours
+PM-001,FIL-1,Filler lubrication and nozzle inspection,14,2.0
+PM-002,FIL-1,Filler valve seal inspection,90,3.0
+PM-003,CAP-1,Capper chuck and torque check,30,1.5
+PM-004,LAB-1,"Labeler clean, roller and sensor check",14,1.0
+PM-005,CPK-1,Case packer lubrication and glue system,30,2.0
+PM-006,PAL-1,Palletizer safety and chain check,30,1.5
+PM-007,CNV-1,Conveyor chain and guide inspection,30,2.0
+PM-008,FIL-2,Filler lubrication and nozzle inspection,14,2.0
+PM-009,FIL-2,Filler valve seal inspection,90,3.0
+PM-010,CAP-2,Capper chuck and torque check,30,1.5
+PM-011,LAB-2,"Labeler clean, roller and sensor check",14,1.0
+PM-012,CPK-2,Case packer lubrication and glue system,30,2.0
+PM-013,PAL-2,Palletizer safety and chain check,30,1.5
+PM-014,CNV-2,Conveyor chain and guide inspection,30,2.0
+PM-015,FIL-3,Filler lubrication and nozzle inspection,14,2.0
+PM-016,FIL-3,Filler valve seal inspection,90,3.0
+PM-017,CAP-3,Capper chuck and torque check,30,1.5
+PM-018,LAB-3,"Labeler clean, roller and sensor check",14,1.0
+PM-019,CPK-3,Case packer lubrication and glue system,30,2.0
+PM-020,PAL-3,Palletizer safety and chain check,30,1.5
+PM-021,CNV-3,Conveyor chain and guide inspection,30,2.0
+PM-022,CPK-2,"Inspect vacuum pump: noise, temperature, vacuum level",30,0.5
+PM-023,CMP-1,"Compressor service: filters, oil, belts",30,3.0
+PM-024,CMP-2,"Compressor service: filters, oil, belts",30,3.0
+PM-025,DRY-1,Dryer condenser clean,30,1.0
+PM-026,AHU-1,AHU filter change,30,2.0
+PM-027,AHU-2,AHU filter change,30,2.0
+PM-028,WWT-1,pH probe calibration,7,0.5
+PM-029,MIX-1,Mixer gearbox oil check,30,1.0
+PM-030,MIX-2,Mixer gearbox oil check,30,1.0
+PM-031,RF-01,"Roof fan inspection: belt, bearings, vibration",7,1.5
+PM-032,RF-02,"Roof fan inspection: belt, bearings, vibration",7,1.5
+PM-033,RF-03,"Roof fan inspection: belt, bearings, vibration",7,1.5
+PM-034,RF-04,"Roof fan inspection: belt, bearings, vibration",7,1.5
+PM-035,RF-05,"Roof fan inspection: belt, bearings, vibration",7,1.5
+PM-036,RF-06,"Roof fan inspection: belt, bearings, vibration",7,1.5
+PM-037,FL-01,Forklift weekly safety inspection,7,0.5
+PM-038,DOCK-1,Dock leveler inspection,90,1.0
+PM-039,FL-02,Forklift weekly safety inspection,7,0.5
+PM-040,DOCK-2,Dock leveler inspection,90,1.0
+PM-041,FL-03,Forklift weekly safety inspection,7,0.5
+PM-042,DOCK-3,Dock leveler inspection,90,1.0
+PM-043,FL-04,Forklift weekly safety inspection,7,0.5
+PM-044,DOCK-4,Dock leveler inspection,90,1.0

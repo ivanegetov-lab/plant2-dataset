@@ -1,0 +1,7 @@
+sku,description,line,fill_ml,units_per_case,ideal_rate_per_min,unit_cost_usd,fill_target_g,fill_lsl_g,fill_usl_g
+AC-1000,All-purpose cleaner 1 L,Line 1,1000,12,100,1.1,1005,1000,1015
+AC-1000-LEM,All-purpose cleaner lemon 1 L,Line 1,1000,12,100,1.12,1005,1000,1015
+FS-2000,Fabric softener 2 L,Line 2,2000,6,70,1.8,2010,2000,2030
+FS-0500,Fabric softener 500 ml,Line 2,500,12,140,0.7,504,500,512
+DS-0750,Dish soap 750 ml,Line 3,750,12,110,0.95,756,750,765
+DS-0750-ECO,Dish soap eco refill 750 ml,Line 3,750,12,110,0.92,756,750,765

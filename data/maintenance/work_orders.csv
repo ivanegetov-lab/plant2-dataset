@@ -1,0 +1,360 @@
+wo_id,type,asset_id,priority,created_at,due_date,started_at,completed_at,status,description,labor_hours,technicians,failure_code,closeout_comment,pm_id,technician
+WO-26091,PM,AHU-1,3,2026-08-03 05:00,2026-08-10,2026-08-10 12:30,2026-08-10 15:00,Closed,AHU filter change,2.5,1,,"Lubed and checked, OK",PM-026,Tech 01
+WO-26153,PM,RF-04,3,2026-08-03 05:00,2026-08-10,2026-08-10 08:06,2026-08-10 10:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.9,1,,"Completed, minor adjustment",PM-034,Tech 04
+WO-26179,PM,RF-06,3,2026-08-03 05:00,2026-08-10,2026-08-10 15:30,2026-08-10 17:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.5,1,,Done,PM-036,Tech 05
+WO-26218,PM,FL-03,3,2026-08-03 05:00,2026-08-10,2026-08-10 09:24,2026-08-10 10:00,Closed,Forklift weekly safety inspection,0.6,1,,"Lubed and checked, OK",PM-041,Tech 03
+WO-26001,PM,FIL-1,3,2026-08-04 05:00,2026-08-11,2026-08-11 10:00,2026-08-11 12:00,Closed,Filler lubrication and nozzle inspection,2.0,1,,"Completed, minor adjustment",PM-001,Tech 04
+WO-26046,PM,PAL-2,3,2026-08-05 05:00,2026-08-12,2026-08-12 13:12,2026-08-12 15:00,Closed,Palletizer safety and chain check,1.8,1,,"Completed, no issues found",PM-013,Tech 05
+WO-26049,PM,CNV-2,3,2026-08-06 05:00,2026-08-13,2026-08-13 09:42,2026-08-13 12:00,Closed,Conveyor chain and guide inspection,2.3,1,,"Completed, no issues found",PM-014,Tech 06
+WO-26166,PM,RF-05,3,2026-08-06 05:00,2026-08-13,2026-08-13 05:24,2026-08-13 07:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.6,1,,Done,PM-035,Tech 07
+WO-26232,PM,FL-04,3,2026-08-06 05:00,2026-08-13,2026-08-13 06:24,2026-08-13 07:00,Closed,Forklift weekly safety inspection,0.6,1,,"Completed, minor adjustment",PM-043,Tech 01
+WO-26245,PM,DOCK-4,3,2026-08-06 05:00,2026-08-13,2026-08-13 17:00,2026-08-13 18:00,Closed,Dock leveler inspection,1.0,1,,OK,PM-044,Tech 03
+WO-26052,PM,FIL-3,3,2026-08-07 05:00,2026-08-14,,,Closed - not done,Filler lubrication and nozzle inspection,0,1,,Production would not release line,PM-015,
+WO-26059,PM,FIL-3,3,2026-08-07 05:00,2026-08-14,2026-08-14 13:36,2026-08-14 17:00,Closed,Filler valve seal inspection,3.4,1,,"Completed, minor adjustment",PM-016,Tech 07
+WO-26063,PM,LAB-3,3,2026-08-07 05:00,2026-08-14,2026-08-14 17:00,2026-08-14 18:00,Closed,"Labeler clean, roller and sensor check",1.0,1,,Done,PM-018,Tech 02
+WO-26098,PM,WWT-1,3,2026-08-07 05:00,2026-08-14,2026-08-14 06:24,2026-08-14 07:00,Closed,pH probe calibration,0.6,1,,"Completed, no issues found",PM-028,Tech 03
+WO-26027,PM,FIL-2,3,2026-08-10 05:00,2026-08-17,2026-08-17 16:00,2026-08-17 18:00,Closed,Filler lubrication and nozzle inspection,2.0,1,,"Completed, no issues found",PM-008,Tech 07
+WO-26095,PM,AHU-2,3,2026-08-10 05:00,2026-08-17,2026-08-17 12:06,2026-08-17 14:00,Closed,AHU filter change,1.9,1,,OK,PM-027,Tech 02
+WO-26117,PM,RF-01,3,2026-08-10 05:00,2026-08-17,2026-08-18 12:36,2026-08-18 14:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.4,1,,"Completed, minor adjustment",PM-031,Tech 05
+WO-26129,PM,RF-02,3,2026-08-10 05:00,2026-08-17,2026-08-17 18:42,2026-08-17 20:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.3,1,,"Lubed and checked, OK",PM-032,Tech 06
+WO-26141,PM,RF-03,3,2026-08-10 05:00,2026-08-17,2026-08-17 06:30,2026-08-17 08:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.5,1,,"Completed, minor adjustment",PM-033,Tech 02
+WO-26154,PM,RF-04,3,2026-08-10 05:00,2026-08-17,2026-08-17 16:12,2026-08-17 18:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.8,1,,"Completed, no issues found",PM-034,Tech 02
+WO-26180,PM,RF-06,3,2026-08-10 05:00,2026-08-17,2026-08-17 14:12,2026-08-17 16:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.8,1,,Completed as per task list,PM-036,Tech 07
+WO-26192,PM,FL-01,3,2026-08-10 05:00,2026-08-17,2026-08-17 17:24,2026-08-17 18:00,Closed,Forklift weekly safety inspection,0.6,1,,"Completed, no issues found",PM-037,Tech 07
+WO-26205,PM,FL-02,3,2026-08-10 05:00,2026-08-17,2026-08-17 07:30,2026-08-17 08:00,Closed,Forklift weekly safety inspection,0.5,1,,Done,PM-039,Tech 01
+WO-26219,PM,FL-03,3,2026-08-10 05:00,2026-08-17,2026-08-17 08:30,2026-08-17 09:00,Closed,Forklift weekly safety inspection,0.5,1,,"Completed, no issues found",PM-041,Tech 04
+WO-26330,REQ,,4,2026-08-10 16:00,2026-08-17,2026-08-13 16:00,2026-08-13 16:00,Closed,Light out in warehouse aisle 3,2.7,1,,Done,,Tech 01
+WO-26012,PM,LAB-1,3,2026-08-11 05:00,2026-08-18,2026-08-18 07:00,2026-08-18 08:00,Closed,"Labeler clean, roller and sensor check",1.0,1,,Done,PM-004,Tech 02
+WO-26024,PM,CNV-1,3,2026-08-11 05:00,2026-08-18,2026-08-19 18:00,2026-08-19 20:00,Closed,Conveyor chain and guide inspection,2.0,1,,OK,PM-007,Tech 04
+WO-26034,PM,CAP-2,3,2026-08-11 05:00,2026-08-18,2026-08-19 15:06,2026-08-19 17:00,Closed,Capper chuck and torque check,1.9,1,,Completed as per task list,PM-010,Tech 04
+WO-26018,PM,CPK-1,3,2026-08-12 05:00,2026-08-19,2026-08-19 15:42,2026-08-19 18:00,Closed,Case packer lubrication and glue system,2.3,1,,Completed as per task list,PM-005,Tech 04
+WO-26331,REQ,,4,2026-08-12 09:00,2026-08-19,2026-08-15 09:00,2026-08-18 09:00,Closed,Leaking hose at mix tank 1,2.9,1,,Done,,Tech 06
+WO-26073,PM,PAL-3,3,2026-08-13 05:00,2026-08-20,2026-08-21 13:36,2026-08-21 15:00,Closed,Palletizer safety and chain check,1.4,1,,"Completed, no issues found",PM-020,Tech 06
+WO-26167,PM,RF-05,3,2026-08-13 05:00,2026-08-20,2026-08-20 11:48,2026-08-20 13:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.2,1,,Completed as per task list,PM-035,Tech 04
+WO-26233,PM,FL-04,3,2026-08-13 05:00,2026-08-20,2026-08-20 18:36,2026-08-20 19:00,Closed,Forklift weekly safety inspection,0.4,1,,"Completed, minor adjustment",PM-043,Tech 08
+WO-26246,CM,CAP-1,2,2026-08-13 12:07,2026-08-13,2026-08-13 12:15,2026-08-13 13:02,Closed,"Capper torque fault, adjusted clutch",0.9,1,ADJ,Adjusted and ran,,Tech 01
+WO-26099,PM,WWT-1,3,2026-08-14 05:00,2026-08-21,2026-08-22 18:30,2026-08-22 19:00,Closed,pH probe calibration,0.5,1,,Done,PM-028,Tech 06
+WO-26037,PM,LAB-2,3,2026-08-17 05:00,2026-08-24,2026-08-24 11:12,2026-08-24 12:00,Closed,"Labeler clean, roller and sensor check",0.8,1,,"Completed, minor adjustment",PM-011,Tech 04
+WO-26043,PM,CPK-2,3,2026-08-17 05:00,2026-08-24,2026-08-24 09:00,2026-08-24 11:00,Closed,Case packer lubrication and glue system,2.0,1,,Done,PM-012,Tech 06
+WO-26079,PM,CPK-2,3,2026-08-17 05:00,2026-08-24,2026-08-24 16:30,2026-08-24 17:00,Closed,"Inspect vacuum pump: noise, temperature, vacuum level",0.5,1,,No issues found,PM-022,Tech 04
+WO-26118,PM,RF-01,3,2026-08-17 05:00,2026-08-24,2026-08-24 07:12,2026-08-24 09:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.8,1,,Done,PM-031,Tech 07
+WO-26130,PM,RF-02,3,2026-08-17 05:00,2026-08-24,2026-08-24 09:24,2026-08-24 11:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.6,1,,"Completed, no issues found",PM-032,Tech 03
+WO-26142,PM,RF-03,3,2026-08-17 05:00,2026-08-24,2026-08-25 12:30,2026-08-25 14:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.5,1,,Done,PM-033,Tech 08
+WO-26155,PM,RF-04,3,2026-08-17 05:00,2026-08-24,2026-08-25 05:48,2026-08-25 07:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.2,1,,"Completed, minor adjustment",PM-034,Tech 06
+WO-26181,PM,RF-06,3,2026-08-17 05:00,2026-08-24,2026-08-24 17:06,2026-08-24 19:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.9,1,,Done,PM-036,Tech 06
+WO-26193,PM,FL-01,3,2026-08-17 05:00,2026-08-24,2026-08-24 16:24,2026-08-24 17:00,Closed,Forklift weekly safety inspection,0.6,1,,Completed as per task list,PM-037,Tech 05
+WO-26206,PM,FL-02,3,2026-08-17 05:00,2026-08-24,2026-08-25 18:24,2026-08-25 19:00,Closed,Forklift weekly safety inspection,0.6,1,,OK,PM-039,Tech 06
+WO-26220,PM,FL-03,3,2026-08-17 05:00,2026-08-24,2026-08-24 19:30,2026-08-24 20:00,Closed,Forklift weekly safety inspection,0.5,1,,"Lubed and checked, OK",PM-041,Tech 07
+WO-26247,CM,CPK-3,2,2026-08-17 16:13,2026-08-17,2026-08-17 16:15,2026-08-17 17:18,Closed,Case erector vacuum cups replaced,0.9,1,MECH,Adjusted and ran,,Tech 02
+WO-26248,CM,FIL-1,2,2026-08-18 02:40,2026-08-18,2026-08-18 02:45,2026-08-18 03:36,Closed,"Filler stopped, level probe fault",0.5,2,ELEC,Adjusted and ran,,Tech 06
+WO-26002,PM,FIL-1,3,2026-08-18 05:00,2026-08-25,2026-08-25 12:06,2026-08-25 14:00,Closed,Filler lubrication and nozzle inspection,1.9,1,,"Lubed and checked, OK",PM-001,Tech 03
+WO-26009,PM,CAP-1,3,2026-08-18 05:00,2026-08-25,2026-09-03 16:42,2026-09-03 18:00,Closed,Capper chuck and torque check,1.3,1,,OK,PM-003,Tech 01
+WO-26249,CM,CNV-3,2,2026-08-18 08:05,2026-08-18,2026-08-18 08:08,2026-08-18 08:37,Closed,"Transfer plate worn, replaced",0.4,2,MECH,Adjusted and ran,,Tech 02
+WO-26250,CM,CNV-3,2,2026-08-18 17:23,2026-08-18,2026-08-18 17:31,2026-08-18 18:20,Closed,"Transfer plate worn, replaced",0.7,2,MECH,Done,,Tech 02
+WO-26251,CM,CAP-2,2,2026-08-19 01:24,2026-08-19,2026-08-19 01:29,2026-08-19 02:24,Closed,"Capper head slipping, replaced chuck insert",0.5,1,MECH,OK,,Tech 06
+WO-26252,CM,CNV-3,2,2026-08-19 20:42,2026-08-19,2026-08-19 20:44,2026-08-19 21:17,Closed,"Guide rail loose, tightened",0.5,2,ADJ,Done,,Tech 07
+WO-26253,CM,FIL-1,2,2026-08-20 02:15,2026-08-20,2026-08-20 02:18,2026-08-20 03:00,Closed,"Filler nozzle not filling, cleared blockage",0.6,2,OTHER,Running,,Tech 02
+WO-26168,PM,RF-05,3,2026-08-20 05:00,2026-08-27,2026-08-27 05:36,2026-08-27 07:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.4,1,,Done,PM-035,Tech 06
+WO-26234,PM,FL-04,3,2026-08-20 05:00,2026-08-27,2026-08-28 10:24,2026-08-28 11:00,Closed,Forklift weekly safety inspection,0.6,1,,Completed as per task list,PM-043,Tech 05
+WO-26254,CM,FIL-3,2,2026-08-20 06:49,2026-08-20,2026-08-20 06:55,2026-08-20 07:57,Closed,"Filler stopped, level probe fault",1.0,1,ELEC,OK,,Tech 05
+WO-26255,CM,FIL-1,2,2026-08-20 11:13,2026-08-20,2026-08-20 11:18,2026-08-20 11:48,Closed,"Filler nozzle not filling, cleared blockage",0.5,2,OTHER,OK,,Tech 01
+WO-26332,REQ,,4,2026-08-20 16:00,2026-08-27,2026-08-23 16:00,2026-08-24 16:00,Closed,Restroom door closer broken,2.4,1,,Done,,Tech 06
+WO-26053,PM,FIL-3,3,2026-08-21 05:00,2026-08-28,2026-08-28 10:48,2026-08-28 13:00,Closed,Filler lubrication and nozzle inspection,2.2,1,,"Lubed and checked, OK",PM-015,Tech 06
+WO-26064,PM,LAB-3,3,2026-08-21 05:00,2026-08-28,2026-08-28 09:00,2026-08-28 10:00,Closed,"Labeler clean, roller and sensor check",1.0,1,,"Completed, minor adjustment",PM-018,Tech 06
+WO-26100,PM,WWT-1,3,2026-08-21 05:00,2026-08-28,2026-08-28 16:30,2026-08-28 17:00,Closed,pH probe calibration,0.5,1,,"Completed, no issues found",PM-028,Tech 03
+WO-26114,PM,MIX-2,3,2026-08-21 05:00,2026-08-28,2026-08-28 07:48,2026-08-28 09:00,Closed,Mixer gearbox oil check,1.2,1,,"Completed, no issues found",PM-030,Tech 01
+WO-26028,PM,FIL-2,3,2026-08-24 05:00,2026-08-31,2026-08-31 13:30,2026-08-31 16:00,Closed,Filler lubrication and nozzle inspection,2.5,1,,Completed as per task list,PM-008,Tech 04
+WO-26070,PM,CPK-3,3,2026-08-24 05:00,2026-08-31,2026-09-01 11:48,2026-09-01 14:00,Closed,Case packer lubrication and glue system,2.2,1,,"Completed, minor adjustment",PM-019,Tech 01
+WO-26082,PM,CMP-1,3,2026-08-24 05:00,2026-08-31,2026-09-16 10:18,2026-09-16 14:00,Closed,"Compressor service: filters, oil, belts",3.7,1,,"Completed, minor adjustment",PM-023,Tech 05
+WO-26119,PM,RF-01,3,2026-08-24 05:00,2026-08-31,2026-09-01 17:42,2026-09-01 19:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.3,1,,Done,PM-031,Tech 07
+WO-26131,PM,RF-02,3,2026-08-24 05:00,2026-08-31,2026-08-31 13:24,2026-08-31 15:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.6,1,,"Lubed and checked, OK",PM-032,Tech 03
+WO-26143,PM,RF-03,3,2026-08-24 05:00,2026-08-31,2026-08-31 13:24,2026-08-31 15:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.6,1,,OK,PM-033,Tech 02
+WO-26156,PM,RF-04,3,2026-08-24 05:00,2026-08-31,2026-09-01 07:30,2026-09-01 09:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.5,1,,"Lubed and checked, OK",PM-034,Tech 03
+WO-26182,PM,RF-06,3,2026-08-24 05:00,2026-08-31,2026-08-31 15:24,2026-08-31 17:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.6,1,,Completed as per task list,PM-036,Tech 01
+WO-26194,PM,FL-01,3,2026-08-24 05:00,2026-08-31,2026-08-31 06:36,2026-08-31 07:00,Closed,Forklift weekly safety inspection,0.4,1,,Done,PM-037,Tech 02
+WO-26207,PM,FL-02,3,2026-08-24 05:00,2026-08-31,2026-09-01 06:36,2026-09-01 07:00,Closed,Forklift weekly safety inspection,0.4,1,,Completed as per task list,PM-039,Tech 01
+WO-26221,PM,FL-03,3,2026-08-24 05:00,2026-08-31,2026-09-01 15:30,2026-09-01 16:00,Closed,Forklift weekly safety inspection,0.5,1,,"Completed, no issues found",PM-041,Tech 04
+WO-26013,PM,LAB-1,3,2026-08-25 05:00,2026-09-01,2026-09-02 16:06,2026-09-02 17:00,Closed,"Labeler clean, roller and sensor check",0.9,1,,Done,PM-004,Tech 02
+WO-26021,PM,PAL-1,3,2026-08-25 05:00,2026-09-01,2026-09-01 09:12,2026-09-01 11:00,Closed,Palletizer safety and chain check,1.8,1,,Done,PM-006,Tech 08
+WO-26060,PM,CAP-3,3,2026-08-25 05:00,2026-09-01,2026-09-01 06:48,2026-09-01 08:00,Closed,Capper chuck and torque check,1.2,1,,OK,PM-017,Tech 08
+WO-26088,PM,DRY-1,3,2026-08-25 05:00,2026-09-01,2026-09-01 07:54,2026-09-01 09:00,Closed,Dryer condenser clean,1.1,1,,Completed as per task list,PM-025,Tech 02
+WO-26111,PM,MIX-1,3,2026-08-26 05:00,2026-09-02,2026-09-03 12:06,2026-09-03 13:00,Closed,Mixer gearbox oil check,0.9,1,,"Lubed and checked, OK",PM-029,Tech 06
+WO-26169,PM,RF-05,3,2026-08-27 05:00,2026-09-03,2026-09-03 11:24,2026-09-03 13:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.6,1,,Completed as per task list,PM-035,Tech 06
+WO-26235,PM,FL-04,3,2026-08-27 05:00,2026-09-03,2026-09-04 10:30,2026-09-04 11:00,Closed,Forklift weekly safety inspection,0.5,1,,OK,PM-043,Tech 02
+WO-26333,REQ,,4,2026-08-27 13:00,2026-09-03,2026-08-27 13:00,2026-08-28 13:00,Closed,Paint walkway lines dock area,1.8,1,,Done,,Tech 06
+WO-26256,CM,CPK-2,2,2026-08-27 15:42,2026-08-27,2026-08-27 15:50,2026-08-27 18:12,Closed,"Case packer 2 vacuum pump loud, replaced bearing",2.3,2,BEAR,"Bearing replaced, ran OK",,Tech 04
+WO-26101,PM,WWT-1,3,2026-08-28 05:00,2026-09-04,2026-09-04 07:24,2026-09-04 08:00,Closed,pH probe calibration,0.6,1,,"Completed, no issues found",PM-028,Tech 05
+WO-26334,REQ,,4,2026-08-28 08:00,2026-09-04,2026-08-29 08:00,2026-09-01 08:00,Closed,Paint walkway lines dock area,1.4,1,,Done,,Tech 01
+WO-26038,PM,LAB-2,3,2026-08-31 05:00,2026-09-07,2026-09-07 10:54,2026-09-07 12:00,Closed,"Labeler clean, roller and sensor check",1.1,1,,Completed as per task list,PM-011,Tech 08
+WO-26076,PM,CNV-3,3,2026-08-31 05:00,2026-09-07,,,Closed - not done,Conveyor chain and guide inspection,0,1,,No tech available,PM-021,
+WO-26085,PM,CMP-2,3,2026-08-31 05:00,2026-09-07,2026-09-08 08:36,2026-09-08 12:00,Closed,"Compressor service: filters, oil, belts",3.4,1,,OK,PM-024,Tech 03
+WO-26120,PM,RF-01,3,2026-08-31 05:00,2026-09-07,2026-09-07 16:18,2026-09-07 18:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.7,1,,Done,PM-031,Tech 05
+WO-26132,PM,RF-02,3,2026-08-31 05:00,2026-09-07,2026-09-07 05:30,2026-09-07 07:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.5,1,,"Lubed and checked, OK",PM-032,Tech 03
+WO-26144,PM,RF-03,3,2026-08-31 05:00,2026-09-07,2026-09-07 13:36,2026-09-07 15:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.4,1,,"Completed, no issues found",PM-033,Tech 07
+WO-26157,PM,RF-04,3,2026-08-31 05:00,2026-09-07,2026-09-07 11:18,2026-09-07 13:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.7,1,,Done,PM-034,Tech 08
+WO-26183,PM,RF-06,3,2026-08-31 05:00,2026-09-07,2026-09-07 08:24,2026-09-07 10:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.6,1,,"Lubed and checked, OK",PM-036,Tech 03
+WO-26195,PM,FL-01,3,2026-08-31 05:00,2026-09-07,2026-09-07 14:24,2026-09-07 15:00,Closed,Forklift weekly safety inspection,0.6,1,,"Completed, minor adjustment",PM-037,Tech 07
+WO-26208,PM,FL-02,3,2026-08-31 05:00,2026-09-07,2026-09-07 10:24,2026-09-07 11:00,Closed,Forklift weekly safety inspection,0.6,1,,Completed as per task list,PM-039,Tech 03
+WO-26222,PM,FL-03,3,2026-08-31 05:00,2026-09-07,2026-09-07 16:24,2026-09-07 17:00,Closed,Forklift weekly safety inspection,0.6,1,,Completed as per task list,PM-041,Tech 01
+WO-26257,CM,CAP-1,2,2026-08-31 08:52,2026-08-31,2026-08-31 08:57,2026-08-31 09:40,Closed,"Cap chute jam, realigned",0.8,1,ADJ,Done,,Tech 01
+WO-26258,CM,CNV-1,2,2026-08-31 20:32,2026-08-31,2026-08-31 20:37,2026-08-31 21:21,Closed,"Conveyor chain jumped, re-tensioned",0.6,2,MECH,Running,,Tech 05
+WO-26003,PM,FIL-1,3,2026-09-01 05:00,2026-09-08,2026-09-08 17:36,2026-09-08 20:00,Closed,Filler lubrication and nozzle inspection,2.4,1,,"Lubed and checked, OK",PM-001,Tech 08
+WO-26335,REQ,,4,2026-09-01 12:00,2026-09-08,2026-09-02 12:00,2026-09-03 12:00,Closed,Light out in warehouse aisle 3,1.4,1,,Done,,Tech 07
+WO-26259,CM,CPK-2,2,2026-09-02 03:30,2026-09-02,2026-09-02 03:35,2026-09-02 04:30,Closed,Case erector vacuum cups replaced,0.8,2,MECH,OK,,Tech 04
+WO-26092,PM,AHU-1,3,2026-09-02 05:00,2026-09-09,2026-09-09 12:06,2026-09-09 14:00,Closed,AHU filter change,1.9,1,,Completed as per task list,PM-026,Tech 04
+WO-26336,REQ,,4,2026-09-02 12:00,2026-09-09,2026-09-06 12:00,2026-09-05 12:00,Closed,Restroom door closer broken,1.0,1,,Done,,Tech 03
+WO-26260,CM,CPK-3,2,2026-09-02 20:05,2026-09-02,2026-09-02 20:08,2026-09-02 20:57,Closed,"Case packer jam, cleared and reset",0.5,1,OTHER,Fixed,,Tech 05
+WO-26170,PM,RF-05,3,2026-09-03 05:00,2026-09-10,2026-09-10 12:06,2026-09-10 14:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.9,1,,Done,PM-035,Tech 03
+WO-26236,PM,FL-04,3,2026-09-03 05:00,2026-09-10,2026-09-11 11:24,2026-09-11 12:00,Closed,Forklift weekly safety inspection,0.6,1,,Done,PM-043,Tech 06
+WO-26261,CM,FIL-1,2,2026-09-03 07:23,2026-09-03,2026-09-03 07:28,2026-09-03 08:10,Closed,"Filler valve sticking, cleaned",0.5,1,ADJ,Done,,Tech 07
+WO-26337,REQ,,4,2026-09-03 12:00,2026-09-10,2026-09-07 12:00,2026-09-05 12:00,Closed,Replace broken pallet jack wheel,2.3,1,,Done,,Tech 02
+WO-26047,PM,PAL-2,3,2026-09-04 05:00,2026-09-11,2026-09-11 18:18,2026-09-11 20:00,Closed,Palletizer safety and chain check,1.7,1,,"Completed, minor adjustment",PM-013,Tech 02
+WO-26054,PM,FIL-3,3,2026-09-04 05:00,2026-09-11,2026-09-11 13:00,2026-09-11 15:00,Closed,Filler lubrication and nozzle inspection,2.0,1,,Completed as per task list,PM-015,Tech 02
+WO-26065,PM,LAB-3,3,2026-09-04 05:00,2026-09-11,2026-09-11 15:48,2026-09-11 17:00,Closed,"Labeler clean, roller and sensor check",1.2,1,,"Lubed and checked, OK",PM-018,Tech 06
+WO-26102,PM,WWT-1,3,2026-09-04 05:00,2026-09-11,2026-09-11 08:24,2026-09-11 09:00,Closed,pH probe calibration,0.6,1,,"Lubed and checked, OK",PM-028,Tech 07
+WO-26338,REQ,,4,2026-09-04 10:00,2026-09-11,2026-09-06 10:00,2026-09-05 10:00,Closed,Leaking hose at mix tank 1,2.1,1,,Done,,Tech 06
+WO-26262,CM,CPK-1,2,2026-09-04 22:26,2026-09-04,2026-09-04 22:31,2026-09-04 23:27,Closed,"Case packer jam, cleared and reset",0.6,2,OTHER,OK,,Tech 03
+WO-26029,PM,FIL-2,3,2026-09-07 05:00,2026-09-14,2026-09-14 11:42,2026-09-14 14:00,Closed,Filler lubrication and nozzle inspection,2.3,1,,"Completed, minor adjustment",PM-008,Tech 05
+WO-26050,PM,CNV-2,3,2026-09-07 05:00,2026-09-14,2026-09-14 06:06,2026-09-14 08:00,Closed,Conveyor chain and guide inspection,1.9,1,,"Completed, minor adjustment",PM-014,Tech 03
+WO-26121,PM,RF-01,3,2026-09-07 05:00,2026-09-14,2026-09-14 07:24,2026-09-14 09:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.6,1,,Completed as per task list,PM-031,Tech 04
+WO-26133,PM,RF-02,3,2026-09-07 05:00,2026-09-14,2026-09-14 10:42,2026-09-14 12:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.3,1,,Done,PM-032,Tech 04
+WO-26145,PM,RF-03,3,2026-09-07 05:00,2026-09-14,2026-09-14 12:12,2026-09-14 14:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.8,1,,"Completed, minor adjustment",PM-033,Tech 04
+WO-26158,PM,RF-04,3,2026-09-07 05:00,2026-09-14,2026-09-14 17:30,2026-09-14 19:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.5,1,,"Completed, no issues found",PM-034,Tech 01
+WO-26184,PM,RF-06,3,2026-09-07 05:00,2026-09-14,2026-09-14 07:42,2026-09-14 09:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.3,1,,Completed as per task list,PM-036,Tech 07
+WO-26196,PM,FL-01,3,2026-09-07 05:00,2026-09-14,2026-09-14 07:36,2026-09-14 08:00,Closed,Forklift weekly safety inspection,0.4,1,,Done,PM-037,Tech 07
+WO-26209,PM,FL-02,3,2026-09-07 05:00,2026-09-14,2026-09-14 14:30,2026-09-14 15:00,Closed,Forklift weekly safety inspection,0.5,1,,"Lubed and checked, OK",PM-039,Tech 04
+WO-26223,PM,FL-03,3,2026-09-07 05:00,2026-09-14,2026-09-14 08:36,2026-09-14 09:00,Closed,Forklift weekly safety inspection,0.4,1,,OK,PM-041,Tech 04
+WO-26014,PM,LAB-1,3,2026-09-08 05:00,2026-09-15,2026-09-15 08:06,2026-09-15 09:00,Closed,"Labeler clean, roller and sensor check",0.9,1,,Done,PM-004,Tech 06
+WO-26263,CM,FIL-3,2,2026-09-08 15:16,2026-09-08,2026-09-08 15:20,2026-09-08 16:03,Closed,"Filler valve sticking, cleaned",0.5,1,ADJ,Running,,Tech 02
+WO-26264,CM,CPK-2,2,2026-09-09 02:38,2026-09-09,2026-09-09 02:40,2026-09-09 03:28,Closed,"Glue gun clogged, cleaned",0.7,1,MECH,Adjusted and ran,,Tech 05
+WO-26358,CM,CPK-2,2,2026-09-09 02:41,2026-09-09,2026-09-09 02:40,2026-09-09 03:28,Closed,"Glue gun clogged, cleaned",0.7,1,MECH,Adjusted and ran,,Tech 05
+WO-26096,PM,AHU-2,3,2026-09-09 05:00,2026-09-16,2026-09-16 12:54,2026-09-16 15:00,Closed,AHU filter change,2.1,1,,OK,PM-027,Tech 04
+WO-26339,REQ,,4,2026-09-09 10:00,2026-09-16,2026-09-12 10:00,2026-09-15 10:00,Closed,Dock door 2 seal torn,1.3,1,,Done,,Tech 02
+WO-26265,CM,CNV-2,2,2026-09-09 14:28,2026-09-09,2026-09-09 14:32,2026-09-09 15:37,Closed,"Conveyor chain jumped, re-tensioned",0.7,1,MECH,Running,,Tech 08
+WO-26266,CM,CPK-3,2,2026-09-10 00:03,2026-09-09,2026-09-10 00:07,2026-09-10 00:44,Closed,Case erector vacuum cups replaced,0.5,1,MECH,Adjusted and ran,,Tech 02
+WO-26025,PM,CNV-1,3,2026-09-10 05:00,2026-09-17,2026-09-18 11:42,2026-09-18 14:00,Closed,Conveyor chain and guide inspection,2.3,1,,"Completed, minor adjustment",PM-007,Tech 05
+WO-26035,PM,CAP-2,3,2026-09-10 05:00,2026-09-17,2026-09-25 10:48,2026-09-25 12:00,Closed,Capper chuck and torque check,1.2,1,,Done,PM-010,Tech 03
+WO-26171,PM,RF-05,3,2026-09-10 05:00,2026-09-17,2026-09-17 13:24,2026-09-17 15:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.6,1,,"Lubed and checked, OK",PM-035,Tech 05
+WO-26237,PM,FL-04,3,2026-09-10 05:00,2026-09-17,2026-09-18 08:30,2026-09-18 09:00,Closed,Forklift weekly safety inspection,0.5,1,,Done,PM-043,Tech 06
+WO-26267,CM,CAP-2,2,2026-09-10 06:38,2026-09-10,2026-09-10 06:41,2026-09-10 07:37,Closed,"Cap chute jam, realigned",0.7,1,ADJ,Done,,Tech 06
+WO-26340,REQ,,4,2026-09-10 10:00,2026-09-17,2026-09-10 10:00,2026-09-16 10:00,Closed,Restroom door closer broken,1.8,1,,Done,,Tech 05
+WO-26019,PM,CPK-1,3,2026-09-11 05:00,2026-09-18,2026-09-18 10:48,2026-09-18 13:00,Closed,Case packer lubrication and glue system,2.2,1,,"Completed, no issues found",PM-005,Tech 07
+WO-26103,PM,WWT-1,3,2026-09-11 05:00,2026-09-18,2026-09-19 08:30,2026-09-19 09:00,Closed,pH probe calibration,0.5,1,,"Lubed and checked, OK",PM-028,Tech 05
+WO-26268,CM,FIL-3,2,2026-09-12 03:39,2026-09-12,2026-09-12 03:46,2026-09-12 04:19,Closed,"Filler nozzle not filling, cleared blockage",0.6,1,OTHER,Adjusted and ran,,Tech 03
+WO-26039,PM,LAB-2,3,2026-09-14 05:00,2026-09-21,2026-09-21 17:42,2026-09-21 19:00,Closed,"Labeler clean, roller and sensor check",1.3,1,,Done,PM-011,Tech 08
+WO-26074,PM,PAL-3,3,2026-09-14 05:00,2026-09-21,2026-09-21 07:36,2026-09-21 09:00,Closed,Palletizer safety and chain check,1.4,1,,"Completed, no issues found",PM-020,Tech 06
+WO-26122,PM,RF-01,3,2026-09-14 05:00,2026-09-21,2026-09-21 15:06,2026-09-21 17:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.9,1,,OK,PM-031,Tech 05
+WO-26134,PM,RF-02,3,2026-09-14 05:00,2026-09-21,2026-09-21 06:06,2026-09-21 08:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.9,1,,OK,PM-032,Tech 07
+WO-26146,PM,RF-03,3,2026-09-14 05:00,2026-09-21,2026-09-22 10:18,2026-09-22 12:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.7,1,,"Completed, no issues found",PM-033,Tech 01
+WO-26159,PM,RF-04,3,2026-09-14 05:00,2026-09-21,2026-09-22 10:12,2026-09-22 12:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.8,1,,"Lubed and checked, OK",PM-034,Tech 01
+WO-26185,PM,RF-06,3,2026-09-14 05:00,2026-09-21,2026-09-21 11:36,2026-09-21 13:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.4,1,,Done,PM-036,Tech 05
+WO-26197,PM,FL-01,3,2026-09-14 05:00,2026-09-21,2026-09-22 13:30,2026-09-22 14:00,Closed,Forklift weekly safety inspection,0.5,1,,Done,PM-037,Tech 03
+WO-26210,PM,FL-02,3,2026-09-14 05:00,2026-09-21,2026-09-21 08:36,2026-09-21 09:00,Closed,Forklift weekly safety inspection,0.4,1,,Completed as per task list,PM-039,Tech 07
+WO-26224,PM,FL-03,3,2026-09-14 05:00,2026-09-21,2026-09-22 10:30,2026-09-22 11:00,Closed,Forklift weekly safety inspection,0.5,1,,"Completed, no issues found",PM-041,Tech 07
+WO-26269,CM,FIL-3,2,2026-09-14 16:52,2026-09-14,2026-09-14 16:57,2026-09-14 17:20,Closed,"Filler stopped, level probe fault",0.4,1,ELEC,OK,,Tech 02
+WO-26004,PM,FIL-1,3,2026-09-15 05:00,2026-09-22,2026-09-22 12:06,2026-09-22 14:00,Closed,Filler lubrication and nozzle inspection,1.9,1,,OK,PM-001,Tech 05
+WO-26270,CM,FIL-2,2,2026-09-15 15:23,2026-09-15,2026-09-15 15:26,2026-09-15 16:24,Closed,"Filler nozzle leaking, replaced o-ring",0.6,1,SEAL,Running,,Tech 03
+WO-26271,CM,CAP-2,2,2026-09-15 18:05,2026-09-15,2026-09-15 18:12,2026-09-15 18:59,Closed,"Capper head slipping, replaced chuck insert",0.9,2,MECH,Running,,Tech 08
+WO-26272,CM,FIL-1,2,2026-09-16 00:33,2026-09-16,2026-09-16 00:39,2026-09-16 01:05,Closed,"Filler nozzle leaking, replaced o-ring",0.7,2,SEAL,Adjusted and ran,,Tech 03
+WO-26044,PM,CPK-2,3,2026-09-16 05:00,2026-09-23,,,Closed - not done,Case packer lubrication and glue system,0,1,,Line not available,PM-012,
+WO-26080,PM,CPK-2,3,2026-09-16 05:00,2026-09-23,2026-09-23 16:36,2026-09-23 17:00,Closed,"Inspect vacuum pump: noise, temperature, vacuum level",0.4,1,,No issues found,PM-022,Tech 03
+WO-26231,PM,DOCK-3,3,2026-09-16 05:00,2026-09-23,,,Closed - not done,Dock leveler inspection,0,1,,Line not available,PM-042,
+WO-26341,REQ,,4,2026-09-16 10:00,2026-09-23,2026-09-17 10:00,2026-09-19 10:00,Closed,Office HVAC too cold,1.4,1,,Done,,Tech 05
+WO-26010,PM,CAP-1,3,2026-09-17 05:00,2026-09-24,2026-09-24 13:30,2026-09-24 15:00,Closed,Capper chuck and torque check,1.5,1,,"Completed, no issues found",PM-003,Tech 08
+WO-26172,PM,RF-05,3,2026-09-17 05:00,2026-09-24,2026-09-24 16:12,2026-09-24 18:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.8,1,,"Lubed and checked, OK",PM-035,Tech 08
+WO-26238,PM,FL-04,3,2026-09-17 05:00,2026-09-24,2026-09-25 08:30,2026-09-25 09:00,Closed,Forklift weekly safety inspection,0.5,1,,"Completed, no issues found",PM-043,Tech 07
+WO-26273,CM,CPK-3,2,2026-09-17 06:48,2026-09-17,2026-09-17 06:56,2026-09-17 07:21,Closed,"Glue gun clogged, cleaned",0.6,1,MECH,OK,,Tech 08
+WO-26274,CM,CAP-2,2,2026-09-17 12:31,2026-09-17,2026-09-17 12:39,2026-09-17 13:23,Closed,"Cap chute jam, realigned",0.7,1,ADJ,Adjusted and ran,,Tech 05
+WO-26055,PM,FIL-3,3,2026-09-18 05:00,2026-09-25,2026-09-26 07:00,2026-09-26 09:00,Closed,Filler lubrication and nozzle inspection,2.0,1,,Completed as per task list,PM-015,Tech 03
+WO-26066,PM,LAB-3,3,2026-09-18 05:00,2026-09-25,2026-09-25 14:48,2026-09-25 16:00,Closed,"Labeler clean, roller and sensor check",1.2,1,,"Completed, no issues found",PM-018,Tech 05
+WO-26104,PM,WWT-1,3,2026-09-18 05:00,2026-09-25,2026-09-25 09:36,2026-09-25 10:00,Closed,pH probe calibration,0.4,1,,Done,PM-028,Tech 05
+WO-26030,PM,FIL-2,3,2026-09-21 05:00,2026-09-28,2026-09-29 10:30,2026-09-29 13:00,Closed,Filler lubrication and nozzle inspection,2.5,1,,"Completed, minor adjustment",PM-008,Tech 01
+WO-26115,PM,MIX-2,3,2026-09-21 05:00,2026-09-28,2026-09-28 10:06,2026-09-28 11:00,Closed,Mixer gearbox oil check,0.9,1,,"Completed, minor adjustment",PM-030,Tech 03
+WO-26123,PM,RF-01,3,2026-09-21 05:00,2026-09-28,2026-09-29 16:18,2026-09-29 18:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.7,1,,"Completed, no issues found",PM-031,Tech 02
+WO-26135,PM,RF-02,3,2026-09-21 05:00,2026-09-28,2026-09-28 10:42,2026-09-28 12:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.3,1,,Completed as per task list,PM-032,Tech 07
+WO-26147,PM,RF-03,3,2026-09-21 05:00,2026-09-28,2026-09-29 15:06,2026-09-29 17:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.9,1,,"Completed, minor adjustment",PM-033,Tech 01
+WO-26160,PM,RF-04,3,2026-09-21 05:00,2026-09-28,2026-09-29 14:24,2026-09-29 16:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.6,1,,Done,PM-034,Tech 07
+WO-26186,PM,RF-06,3,2026-09-21 05:00,2026-09-28,2026-09-28 11:36,2026-09-28 13:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.4,1,,"Completed, no issues found",PM-036,Tech 03
+WO-26198,PM,FL-01,3,2026-09-21 05:00,2026-09-28,2026-09-28 14:30,2026-09-28 15:00,Closed,Forklift weekly safety inspection,0.5,1,,"Completed, no issues found",PM-037,Tech 02
+WO-26211,PM,FL-02,3,2026-09-21 05:00,2026-09-28,2026-09-28 08:36,2026-09-28 09:00,Closed,Forklift weekly safety inspection,0.4,1,,"Completed, minor adjustment",PM-039,Tech 02
+WO-26225,PM,FL-03,3,2026-09-21 05:00,2026-09-28,2026-09-29 12:36,2026-09-29 13:00,Closed,Forklift weekly safety inspection,0.4,1,,Completed as per task list,PM-041,Tech 03
+WO-26342,REQ,,4,2026-09-21 15:00,2026-09-28,2026-09-21 15:00,2026-09-24 15:00,Closed,Paint walkway lines dock area,0.9,1,,Done,,Tech 08
+WO-26275,CM,CPK-2,2,2026-09-21 17:46,2026-09-21,2026-09-21 17:48,2026-09-21 18:37,Closed,"Case packer jam, cleared and reset",0.6,1,OTHER,Adjusted and ran,,Tech 02
+WO-26276,CM,CPK-2,2,2026-09-21 23:10,2026-09-21,2026-09-21 23:17,2026-09-21 23:47,Closed,"Glue gun clogged, cleaned",0.7,2,MECH,Done,,Tech 08
+WO-26277,CM,CPK-2,2,2026-09-22 02:14,2026-09-22,2026-09-22 02:20,2026-09-22 04:51,Closed,"CPK2 no vacuum - pump seized, replaced bearing. Bearing not in stock, got from vendor",2.7,1,MECH,Running,,Tech 02
+WO-26015,PM,LAB-1,3,2026-09-22 05:00,2026-09-29,,,Closed - not done,"Labeler clean, roller and sensor check",0,1,,No tech available,PM-004,
+WO-26278,CM,CNV-1,2,2026-09-22 12:31,2026-09-22,2026-09-22 12:39,2026-09-22 13:22,Closed,"Transfer plate worn, replaced",0.7,1,MECH,Done,,Tech 05
+WO-26071,PM,CPK-3,3,2026-09-23 05:00,2026-09-30,2026-09-30 15:12,2026-09-30 17:00,Closed,Case packer lubrication and glue system,1.8,1,,OK,PM-019,Tech 02
+WO-26083,PM,CMP-1,3,2026-09-23 05:00,2026-09-30,2026-09-30 04:18,2026-09-30 08:00,Closed,"Compressor service: filters, oil, belts",3.7,1,,Done,PM-023,Tech 01
+WO-26279,CM,FIL-3,2,2026-09-23 10:21,2026-09-23,2026-09-23 10:27,2026-09-23 11:15,Closed,"Filler valve sticking, cleaned",0.8,2,ADJ,Running,,Tech 08
+WO-26343,REQ,,4,2026-09-23 12:00,2026-09-30,2026-09-26 12:00,2026-09-26 12:00,Closed,Leaking hose at mix tank 1,0.9,1,,Done,,Tech 06
+WO-26022,PM,PAL-1,3,2026-09-24 05:00,2026-10-01,2026-10-01 18:06,2026-10-01 20:00,Closed,Palletizer safety and chain check,1.9,1,,"Completed, no issues found",PM-006,Tech 05
+WO-26061,PM,CAP-3,3,2026-09-24 05:00,2026-10-01,2026-10-02 16:30,2026-10-02 18:00,Closed,Capper chuck and torque check,1.5,1,,"Completed, minor adjustment",PM-017,Tech 08
+WO-26089,PM,DRY-1,3,2026-09-24 05:00,2026-10-01,2026-10-02 08:54,2026-10-02 10:00,Closed,Dryer condenser clean,1.1,1,,"Completed, minor adjustment",PM-025,Tech 05
+WO-26173,PM,RF-05,3,2026-09-24 05:00,2026-10-01,2026-10-01 14:12,2026-10-01 16:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.8,1,,"Lubed and checked, OK",PM-035,Tech 07
+WO-26239,PM,FL-04,3,2026-09-24 05:00,2026-10-01,2026-10-01 13:24,2026-10-01 14:00,Closed,Forklift weekly safety inspection,0.6,1,,OK,PM-043,Tech 01
+WO-26280,CM,LAB-3,2,2026-09-24 12:38,2026-09-24,2026-09-24 12:43,2026-09-24 13:35,Closed,"Label sensor dirty, cleaned",0.9,2,ELEC,Running,,Tech 01
+WO-26344,REQ,,4,2026-09-24 16:00,2026-10-01,2026-09-25 16:00,2026-09-26 16:00,Closed,Leaking hose at mix tank 1,2.8,1,,Done,,Tech 04
+WO-26105,PM,WWT-1,3,2026-09-25 05:00,2026-10-02,2026-10-02 17:24,2026-10-02 18:00,Closed,pH probe calibration,0.6,1,,"Completed, minor adjustment",PM-028,Tech 06
+WO-26112,PM,MIX-1,3,2026-09-25 05:00,2026-10-02,2026-10-03 18:06,2026-10-03 19:00,Closed,Mixer gearbox oil check,0.9,1,,"Completed, no issues found",PM-029,Tech 02
+WO-26217,PM,DOCK-2,3,2026-09-25 05:00,2026-10-02,2026-10-03 19:06,2026-10-03 20:00,Closed,Dock leveler inspection,0.9,1,,Completed as per task list,PM-040,Tech 04
+WO-26040,PM,LAB-2,3,2026-09-28 05:00,2026-10-05,2026-10-05 06:06,2026-10-05 07:00,Closed,"Labeler clean, roller and sensor check",0.9,1,,"Completed, minor adjustment",PM-011,Tech 02
+WO-26124,PM,RF-01,3,2026-09-28 05:00,2026-10-05,2026-10-06 15:30,2026-10-06 17:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.5,1,,Completed as per task list,PM-031,Tech 08
+WO-26136,PM,RF-02,3,2026-09-28 05:00,2026-10-05,2026-10-05 12:18,2026-10-05 14:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.7,1,,Done,PM-032,Tech 06
+WO-26148,PM,RF-03,3,2026-09-28 05:00,2026-10-05,2026-10-05 16:42,2026-10-05 18:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.3,1,,"Lubed and checked, OK",PM-033,Tech 04
+WO-26161,PM,RF-04,3,2026-09-28 05:00,2026-10-05,2026-10-05 09:12,2026-10-05 11:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.8,1,,OK,PM-034,Tech 08
+WO-26187,PM,RF-06,3,2026-09-28 05:00,2026-10-05,2026-10-05 12:06,2026-10-05 14:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.9,1,,"Lubed and checked, OK",PM-036,Tech 05
+WO-26199,PM,FL-01,3,2026-09-28 05:00,2026-10-05,2026-10-05 10:36,2026-10-05 11:00,Closed,Forklift weekly safety inspection,0.4,1,,"Lubed and checked, OK",PM-037,Tech 05
+WO-26212,PM,FL-02,3,2026-09-28 05:00,2026-10-05,2026-10-05 18:30,2026-10-05 19:00,Closed,Forklift weekly safety inspection,0.5,1,,Done,PM-039,Tech 04
+WO-26226,PM,FL-03,3,2026-09-28 05:00,2026-10-05,2026-10-05 09:30,2026-10-05 10:00,Closed,Forklift weekly safety inspection,0.5,1,,OK,PM-041,Tech 06
+WO-26281,CM,LAB-3,2,2026-09-28 07:12,2026-09-28,2026-09-28 07:14,2026-09-28 07:57,Closed,"Labeler jamming, adjusted guides",0.7,2,ADJ,Adjusted and ran,,Tech 06
+WO-26282,CM,CPK-2,2,2026-09-28 15:11,2026-09-28,2026-09-28 15:14,2026-09-28 16:15,Closed,"Glue gun clogged, cleaned",0.7,1,MECH,OK,,Tech 05
+WO-26283,CM,FIL-1,2,2026-09-28 15:25,2026-09-28,2026-09-28 15:29,2026-09-28 16:11,Closed,"Filler stopped, level probe fault",0.8,1,ELEC,Fixed,,Tech 04
+WO-26005,PM,FIL-1,3,2026-09-29 05:00,2026-10-06,2026-10-07 05:42,2026-10-07 08:00,Closed,Filler lubrication and nozzle inspection,2.3,1,,"Completed, minor adjustment",PM-001,Tech 06
+WO-26284,CM,CPK-2,2,2026-09-30 03:35,2026-09-30,2026-09-30 03:43,2026-09-30 04:22,Closed,Case erector vacuum cups replaced,0.4,2,MECH,Running,,Tech 03
+WO-26077,PM,CNV-3,3,2026-09-30 05:00,2026-10-07,2026-10-08 17:12,2026-10-08 19:00,Closed,Conveyor chain and guide inspection,1.8,1,,"Lubed and checked, OK",PM-021,Tech 02
+WO-26086,PM,CMP-2,3,2026-09-30 05:00,2026-10-07,2026-10-07 17:06,2026-10-07 20:00,Closed,"Compressor service: filters, oil, belts",2.9,1,,OK,PM-024,Tech 06
+WO-26285,CM,FIL-3,2,2026-09-30 09:27,2026-09-30,2026-09-30 09:30,2026-09-30 09:55,Closed,"Filler stopped, level probe fault",0.7,2,ELEC,Fixed,,Tech 04
+WO-26174,PM,RF-05,3,2026-10-01 05:00,2026-10-08,2026-10-08 11:24,2026-10-08 13:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.6,1,,OK,PM-035,Tech 08
+WO-26240,PM,FL-04,3,2026-10-01 05:00,2026-10-08,2026-10-08 13:24,2026-10-08 14:00,Closed,Forklift weekly safety inspection,0.6,1,,"Completed, minor adjustment",PM-043,Tech 01
+WO-26286,CM,CNV-3,2,2026-10-01 06:33,2026-10-01,2026-10-01 06:41,2026-10-01 07:25,Closed,"Conveyor chain jumped, re-tensioned",0.8,2,MECH,Running,,Tech 04
+WO-26345,REQ,,4,2026-10-01 14:00,2026-10-08,2026-10-05 14:00,2026-10-02 14:00,Closed,Eye wash station check flow,1.4,1,,Done,,Tech 01
+WO-26056,PM,FIL-3,3,2026-10-02 05:00,2026-10-09,2026-10-09 16:36,2026-10-09 19:00,Closed,Filler lubrication and nozzle inspection,2.4,1,,Done,PM-015,Tech 03
+WO-26067,PM,LAB-3,3,2026-10-02 05:00,2026-10-09,2026-10-10 07:12,2026-10-10 08:00,Closed,"Labeler clean, roller and sensor check",0.8,1,,"Completed, no issues found",PM-018,Tech 03
+WO-26093,PM,AHU-1,3,2026-10-02 05:00,2026-10-09,2026-10-09 09:48,2026-10-09 12:00,Closed,AHU filter change,2.2,1,,"Completed, minor adjustment",PM-026,Tech 05
+WO-26106,PM,WWT-1,3,2026-10-02 05:00,2026-10-09,2026-10-09 09:30,2026-10-09 10:00,Closed,pH probe calibration,0.5,1,,Done,PM-028,Tech 05
+WO-26031,PM,FIL-2,3,2026-10-05 05:00,2026-10-12,2026-10-12 11:00,2026-10-12 13:00,Closed,Filler lubrication and nozzle inspection,2.0,1,,Done,PM-008,Tech 02
+WO-26048,PM,PAL-2,3,2026-10-05 05:00,2026-10-12,2026-10-12 18:06,2026-10-12 20:00,Closed,Palletizer safety and chain check,1.9,1,,Completed as per task list,PM-013,Tech 03
+WO-26125,PM,RF-01,3,2026-10-05 05:00,2026-10-12,2026-10-12 13:36,2026-10-12 15:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.4,1,,OK,PM-031,Tech 07
+WO-26137,PM,RF-02,3,2026-10-05 05:00,2026-10-12,2026-10-12 07:42,2026-10-12 09:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.3,1,,"Completed, minor adjustment",PM-032,Tech 06
+WO-26149,PM,RF-03,3,2026-10-05 05:00,2026-10-12,2026-10-12 14:18,2026-10-12 16:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.7,1,,Done,PM-033,Tech 05
+WO-26162,PM,RF-04,3,2026-10-05 05:00,2026-10-12,2026-10-12 15:36,2026-10-12 17:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.4,1,,OK,PM-034,Tech 05
+WO-26188,PM,RF-06,3,2026-10-05 05:00,2026-10-12,2026-10-12 11:36,2026-10-12 13:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.4,1,,Completed as per task list,PM-036,Tech 07
+WO-26200,PM,FL-01,3,2026-10-05 05:00,2026-10-12,2026-10-12 10:24,2026-10-12 11:00,Closed,Forklift weekly safety inspection,0.6,1,,OK,PM-037,Tech 07
+WO-26213,PM,FL-02,3,2026-10-05 05:00,2026-10-12,2026-10-12 18:36,2026-10-12 19:00,Closed,Forklift weekly safety inspection,0.4,1,,"Lubed and checked, OK",PM-039,Tech 02
+WO-26227,PM,FL-03,3,2026-10-05 05:00,2026-10-12,2026-10-13 13:24,2026-10-13 14:00,Closed,Forklift weekly safety inspection,0.6,1,,OK,PM-041,Tech 02
+WO-26346,REQ,,4,2026-10-05 12:00,2026-10-12,2026-10-06 12:00,2026-10-07 12:00,Closed,Paint walkway lines dock area,2.4,1,,Done,,Tech 07
+WO-26287,CM,CNV-3,2,2026-10-05 17:20,2026-10-05,2026-10-05 17:26,2026-10-05 18:13,Closed,"Transfer plate worn, replaced",0.8,2,MECH,Done,,Tech 08
+WO-26016,PM,LAB-1,3,2026-10-06 05:00,2026-10-13,2026-10-13 14:00,2026-10-13 15:00,Closed,"Labeler clean, roller and sensor check",1.0,1,,Done,PM-004,Tech 03
+WO-26288,CM,CPK-2,2,2026-10-06 06:41,2026-10-06,2026-10-06 06:47,2026-10-06 07:39,Closed,"Case packer jam, cleared and reset",0.6,1,OTHER,Done,,Tech 02
+WO-26289,CM,LAB-2,2,2026-10-06 09:50,2026-10-06,2026-10-06 09:52,2026-10-06 10:29,Closed,"Labeler jamming, adjusted guides",0.6,1,ADJ,Running,,Tech 02
+WO-26290,CM,CPK-1,2,2026-10-07 03:23,2026-10-07,2026-10-07 03:28,2026-10-07 04:16,Closed,Case erector vacuum cups replaced,0.6,1,MECH,Running,,Tech 01
+WO-26051,PM,CNV-2,3,2026-10-07 05:00,2026-10-14,,,Closed - not done,Conveyor chain and guide inspection,0,1,,No tech available,PM-014,
+WO-26347,REQ,,4,2026-10-07 09:00,2026-10-14,2026-10-08 09:00,2026-10-11 09:00,Closed,Eye wash station check flow,2.7,1,,Done,,Tech 08
+WO-26291,CM,FIL-1,2,2026-10-07 15:44,2026-10-07,2026-10-07 15:50,2026-10-07 16:44,Closed,"Filler stopped, level probe fault",0.5,1,ELEC,OK,,Tech 06
+WO-26175,PM,RF-05,3,2026-10-08 05:00,2026-10-15,2026-10-15 17:42,2026-10-15 19:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.3,1,,"Completed, minor adjustment",PM-035,Tech 05
+WO-26241,PM,FL-04,3,2026-10-08 05:00,2026-10-15,2026-10-15 09:36,2026-10-15 10:00,Closed,Forklift weekly safety inspection,0.4,1,,Done,PM-043,Tech 03
+WO-26348,REQ,,4,2026-10-08 08:00,2026-10-15,2026-10-12 08:00,2026-10-09 08:00,Closed,Leaking hose at mix tank 1,0.8,1,,Done,,Tech 01
+WO-26292,CM,CNV-1,2,2026-10-08 23:25,2026-10-08,2026-10-08 23:28,2026-10-09 00:20,Closed,"Guide rail loose, tightened",0.7,2,ADJ,Adjusted and ran,,Tech 06
+WO-26097,PM,AHU-2,3,2026-10-09 05:00,2026-10-16,,,Closed - not done,AHU filter change,0,1,,Production would not release line,PM-027,
+WO-26107,PM,WWT-1,3,2026-10-09 05:00,2026-10-16,2026-10-16 15:30,2026-10-16 16:00,Closed,pH probe calibration,0.5,1,,"Lubed and checked, OK",PM-028,Tech 07
+WO-26293,CM,LAB-3,2,2026-10-09 14:28,2026-10-09,2026-10-09 14:31,2026-10-09 15:12,Closed,"Label sensor dirty, cleaned",0.8,2,ELEC,Fixed,,Tech 01
+WO-26020,PM,CPK-1,3,2026-10-12 05:00,2026-10-19,2026-10-19 17:00,2026-10-19 19:00,Closed,Case packer lubrication and glue system,2.0,1,,"Lubed and checked, OK",PM-005,Tech 03
+WO-26026,PM,CNV-1,3,2026-10-12 05:00,2026-10-19,2026-10-19 14:54,2026-10-19 17:00,Closed,Conveyor chain and guide inspection,2.1,1,,"Lubed and checked, OK",PM-007,Tech 04
+WO-26036,PM,CAP-2,3,2026-10-12 05:00,2026-10-19,2026-10-19 06:12,2026-10-19 08:00,Closed,Capper chuck and torque check,1.8,1,,Completed as per task list,PM-010,Tech 08
+WO-26041,PM,LAB-2,3,2026-10-12 05:00,2026-10-19,2026-10-20 10:00,2026-10-20 11:00,Closed,"Labeler clean, roller and sensor check",1.0,1,,"Completed, minor adjustment",PM-011,Tech 04
+WO-26126,PM,RF-01,3,2026-10-12 05:00,2026-10-19,2026-10-20 05:36,2026-10-20 07:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.4,1,,"Completed, no issues found",PM-031,Tech 06
+WO-26138,PM,RF-02,3,2026-10-12 05:00,2026-10-19,2026-10-19 17:36,2026-10-19 19:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.4,1,,Done,PM-032,Tech 08
+WO-26150,PM,RF-03,3,2026-10-12 05:00,2026-10-19,2026-10-19 11:12,2026-10-19 13:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.8,1,,"Completed, no issues found",PM-033,Tech 05
+WO-26163,PM,RF-04,3,2026-10-12 05:00,2026-10-19,2026-10-20 09:36,2026-10-20 11:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.4,1,,OK,PM-034,Tech 07
+WO-26189,PM,RF-06,3,2026-10-12 05:00,2026-10-19,2026-10-19 08:18,2026-10-19 10:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.7,1,,Done,PM-036,Tech 02
+WO-26201,PM,FL-01,3,2026-10-12 05:00,2026-10-19,2026-10-19 19:24,2026-10-19 20:00,Closed,Forklift weekly safety inspection,0.6,1,,"Completed, no issues found",PM-037,Tech 07
+WO-26214,PM,FL-02,3,2026-10-12 05:00,2026-10-19,2026-10-19 17:30,2026-10-19 18:00,Closed,Forklift weekly safety inspection,0.5,1,,"Lubed and checked, OK",PM-039,Tech 03
+WO-26228,PM,FL-03,3,2026-10-12 05:00,2026-10-19,2026-10-19 17:24,2026-10-19 18:00,Closed,Forklift weekly safety inspection,0.6,1,,Done,PM-041,Tech 08
+WO-26006,PM,FIL-1,3,2026-10-13 05:00,2026-10-20,2026-10-20 13:18,2026-10-20 15:00,Closed,Filler lubrication and nozzle inspection,1.7,1,,"Lubed and checked, OK",PM-001,Tech 04
+WO-26294,CM,CPK-2,2,2026-10-13 09:33,2026-10-13,2026-10-13 09:35,2026-10-13 11:37,Closed,Vacuum pump tripped on case packer 2,2.3,2,OTHER,"Replaced bearing, reset overload",,Tech 04
+WO-26295,CM,CAP-3,2,2026-10-13 18:35,2026-10-13,2026-10-13 18:37,2026-10-13 19:00,Closed,"Capper head slipping, replaced chuck insert",0.6,1,MECH,Fixed,,Tech 07
+WO-26296,CM,CPK-2,2,2026-10-13 18:52,2026-10-13,2026-10-13 18:56,2026-10-13 19:48,Closed,"Case packer jam, cleared and reset",0.6,1,OTHER,Adjusted and ran,,Tech 07
+WO-26033,PM,FIL-2,3,2026-10-14 05:00,2026-10-21,,,Closed - not done,Filler valve seal inspection,0,1,,Production would not release line,PM-009,
+WO-26075,PM,PAL-3,3,2026-10-14 05:00,2026-10-21,2026-10-21 09:18,2026-10-21 11:00,Closed,Palletizer safety and chain check,1.7,1,,"Completed, minor adjustment",PM-020,Tech 02
+WO-26297,CM,FIL-2,2,2026-10-14 07:33,2026-10-14,2026-10-14 07:37,2026-10-14 08:01,Closed,"Filler valve sticking, cleaned",0.6,1,ADJ,Fixed,,Tech 07
+WO-26349,REQ,,4,2026-10-14 15:00,2026-10-21,2026-10-16 15:00,2026-10-16 15:00,Closed,Paint walkway lines dock area,2.9,1,,Done,,Tech 01
+WO-26176,PM,RF-05,3,2026-10-15 05:00,2026-10-22,2026-10-22 06:18,2026-10-22 08:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.7,1,,"Completed, no issues found",PM-035,Tech 02
+WO-26242,PM,FL-04,3,2026-10-15 05:00,2026-10-22,2026-10-22 15:30,2026-10-22 16:00,Closed,Forklift weekly safety inspection,0.5,1,,Completed as per task list,PM-043,Tech 03
+WO-26350,REQ,,4,2026-10-15 10:00,2026-10-22,2026-10-18 10:00,2026-10-19 10:00,Closed,Restroom door closer broken,1.3,1,,Done,,Tech 05
+WO-26045,PM,CPK-2,3,2026-10-16 05:00,2026-10-23,2026-10-24 12:30,2026-10-24 15:00,Closed,Case packer lubrication and glue system,2.5,1,,"Completed, minor adjustment",PM-012,Tech 06
+WO-26057,PM,FIL-3,3,2026-10-16 05:00,2026-10-23,2026-10-23 09:48,2026-10-23 12:00,Closed,Filler lubrication and nozzle inspection,2.2,1,,Completed as per task list,PM-015,Tech 03
+WO-26068,PM,LAB-3,3,2026-10-16 05:00,2026-10-23,2026-10-23 12:48,2026-10-23 14:00,Closed,"Labeler clean, roller and sensor check",1.2,1,,OK,PM-018,Tech 04
+WO-26081,PM,CPK-2,3,2026-10-16 05:00,2026-10-23,,,Closed - not done,"Inspect vacuum pump: noise, temperature, vacuum level",0,1,,No tech available,PM-022,
+WO-26108,PM,WWT-1,3,2026-10-16 05:00,2026-10-23,2026-10-23 19:36,2026-10-23 20:00,Closed,pH probe calibration,0.4,1,,"Completed, minor adjustment",PM-028,Tech 01
+WO-26298,CM,FIL-1,2,2026-10-16 16:22,2026-10-16,2026-10-16 16:24,2026-10-16 16:52,Closed,"Filler valve sticking, cleaned",0.6,1,ADJ,OK,,Tech 05
+WO-26299,CM,CAP-3,2,2026-10-17 01:19,2026-10-17,2026-10-17 01:25,2026-10-17 02:08,Closed,"Capper torque fault, adjusted clutch",0.6,1,ADJ,Done,,Tech 08
+WO-26011,PM,CAP-1,3,2026-10-19 05:00,2026-10-26,2026-10-27 11:12,2026-10-27 13:00,Closed,Capper chuck and torque check,1.8,1,,"Completed, minor adjustment",PM-003,Tech 08
+WO-26032,PM,FIL-2,3,2026-10-19 05:00,2026-10-26,2026-10-27 04:54,2026-10-27 07:00,Closed,Filler lubrication and nozzle inspection,2.1,1,,OK,PM-008,Tech 06
+WO-26127,PM,RF-01,3,2026-10-19 05:00,2026-10-26,2026-10-26 18:48,2026-10-26 20:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.2,1,,OK,PM-031,Tech 08
+WO-26139,PM,RF-02,3,2026-10-19 05:00,2026-10-26,2026-10-27 16:42,2026-10-27 18:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.3,1,,"Completed, no issues found",PM-032,Tech 07
+WO-26151,PM,RF-03,3,2026-10-19 05:00,2026-10-26,2026-10-26 13:12,2026-10-26 15:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.8,1,,Done,PM-033,Tech 07
+WO-26164,PM,RF-04,3,2026-10-19 05:00,2026-10-26,2026-10-27 14:42,2026-10-27 16:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.3,1,,OK,PM-034,Tech 05
+WO-26190,PM,RF-06,3,2026-10-19 05:00,2026-10-26,2026-10-26 16:06,2026-10-26 18:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.9,1,,OK,PM-036,Tech 01
+WO-26202,PM,FL-01,3,2026-10-19 05:00,2026-10-26,2026-10-27 14:24,2026-10-27 15:00,Closed,Forklift weekly safety inspection,0.6,1,,Completed as per task list,PM-037,Tech 03
+WO-26215,PM,FL-02,3,2026-10-19 05:00,2026-10-26,2026-10-26 11:24,2026-10-26 12:00,Closed,Forklift weekly safety inspection,0.6,1,,OK,PM-039,Tech 02
+WO-26229,PM,FL-03,3,2026-10-19 05:00,2026-10-26,2026-10-26 18:24,2026-10-26 19:00,Closed,Forklift weekly safety inspection,0.6,1,,"Completed, no issues found",PM-041,Tech 07
+WO-26017,PM,LAB-1,3,2026-10-20 05:00,2026-10-27,2026-10-27 10:48,2026-10-27 12:00,Closed,"Labeler clean, roller and sensor check",1.2,1,,"Completed, minor adjustment",PM-004,Tech 05
+WO-26300,CM,LAB-3,2,2026-10-20 08:19,2026-10-20,2026-10-20 08:26,2026-10-20 09:07,Closed,"Web break, re-threaded",0.9,1,OTHER,Running,,Tech 08
+WO-26351,REQ,,4,2026-10-20 11:00,2026-10-27,2026-10-20 11:00,2026-10-25 11:00,Closed,Dock door 2 seal torn,1.2,1,,Done,,Tech 04
+WO-26116,PM,MIX-2,3,2026-10-21 05:00,2026-10-28,2026-10-28 10:48,2026-10-28 12:00,Closed,Mixer gearbox oil check,1.2,1,,OK,PM-030,Tech 02
+WO-26301,CM,FIL-3,2,2026-10-21 12:43,2026-10-21,2026-10-21 12:45,2026-10-21 13:15,Closed,"Filler nozzle not filling, cleared blockage",0.5,1,OTHER,OK,,Tech 03
+WO-26008,PM,FIL-1,3,2026-10-22 05:00,2026-10-29,2026-10-30 12:30,2026-10-30 16:00,Closed,Filler valve seal inspection,3.5,1,,OK,PM-002,Tech 02
+WO-26177,PM,RF-05,3,2026-10-22 05:00,2026-10-29,2026-10-29 13:30,2026-10-29 15:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.5,1,,Done,PM-035,Tech 01
+WO-26243,PM,FL-04,3,2026-10-22 05:00,2026-10-29,2026-10-29 11:30,2026-10-29 12:00,Closed,Forklift weekly safety inspection,0.5,1,,"Lubed and checked, OK",PM-043,Tech 02
+WO-26302,CM,CAP-1,2,2026-10-22 23:47,2026-10-22,2026-10-22 23:50,2026-10-23 00:42,Closed,"Capper head slipping, replaced chuck insert",0.6,1,MECH,Fixed,,Tech 02
+WO-26303,CM,CAP-2,2,2026-10-23 02:05,2026-10-23,2026-10-23 02:07,2026-10-23 02:58,Closed,"Cap chute jam, realigned",1.3,2,ADJ,OK,,Tech 07
+WO-26304,CM,FIL-2,2,2026-10-23 04:31,2026-10-23,2026-10-23 04:37,2026-10-23 05:25,Closed,"Filler stopped, level probe fault",0.6,2,ELEC,Fixed,,Tech 07
+WO-26072,PM,CPK-3,3,2026-10-23 05:00,2026-10-30,2026-10-30 05:36,2026-10-30 08:00,Closed,Case packer lubrication and glue system,2.4,1,,OK,PM-019,Tech 05
+WO-26084,PM,CMP-1,3,2026-10-23 05:00,2026-10-30,,,Open,"Compressor service: filters, oil, belts",0,1,,,PM-023,
+WO-26109,PM,WWT-1,3,2026-10-23 05:00,2026-10-30,2026-10-30 06:24,2026-10-30 07:00,Closed,pH probe calibration,0.6,1,,OK,PM-028,Tech 04
+WO-26352,REQ,,4,2026-10-23 12:00,2026-10-30,2026-10-27 12:00,2026-10-27 12:00,Closed,Replace broken pallet jack wheel,2.8,1,,Done,,Tech 01
+WO-26305,CM,CPK-3,2,2026-10-24 03:03,2026-10-24,2026-10-24 03:09,2026-10-24 03:37,Closed,"Glue gun clogged, cleaned",0.6,1,MECH,Running,,Tech 04
+WO-26023,PM,PAL-1,3,2026-10-26 05:00,2026-11-02,2026-11-02 08:30,2026-11-02 10:00,Closed,Palletizer safety and chain check,1.5,1,,"Completed, no issues found",PM-006,Tech 02
+WO-26042,PM,LAB-2,3,2026-10-26 05:00,2026-11-02,2026-11-03 11:48,2026-11-03 13:00,Closed,"Labeler clean, roller and sensor check",1.2,1,,Done,PM-011,Tech 01
+WO-26062,PM,CAP-3,3,2026-10-26 05:00,2026-11-02,,,Open,Capper chuck and torque check,0,1,,,PM-017,
+WO-26090,PM,DRY-1,3,2026-10-26 05:00,2026-11-02,2026-11-02 18:00,2026-11-02 19:00,Closed,Dryer condenser clean,1.0,1,,"Completed, minor adjustment",PM-025,Tech 07
+WO-26113,PM,MIX-1,3,2026-10-26 05:00,2026-11-02,2026-11-03 06:00,2026-11-03 07:00,Closed,Mixer gearbox oil check,1.0,1,,"Completed, no issues found",PM-029,Tech 04
+WO-26128,PM,RF-01,3,2026-10-26 05:00,2026-11-02,2026-11-02 10:12,2026-11-02 12:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.8,1,,Done,PM-031,Tech 05
+WO-26140,PM,RF-02,3,2026-10-26 05:00,2026-11-02,2026-11-03 05:12,2026-11-03 07:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.8,1,,Done,PM-032,Tech 07
+WO-26152,PM,RF-03,3,2026-10-26 05:00,2026-11-02,2026-11-02 09:12,2026-11-02 11:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.8,1,,OK,PM-033,Tech 02
+WO-26165,PM,RF-04,3,2026-10-26 05:00,2026-11-02,2026-11-02 09:30,2026-11-02 11:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.5,1,,"Completed, no issues found",PM-034,Tech 05
+WO-26191,PM,RF-06,3,2026-10-26 05:00,2026-11-02,2026-11-02 17:36,2026-11-02 19:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.4,1,,"Completed, minor adjustment",PM-036,Tech 03
+WO-26203,PM,FL-01,3,2026-10-26 05:00,2026-11-02,2026-11-02 17:24,2026-11-02 18:00,Closed,Forklift weekly safety inspection,0.6,1,,OK,PM-037,Tech 06
+WO-26216,PM,FL-02,3,2026-10-26 05:00,2026-11-02,2026-11-03 09:36,2026-11-03 10:00,Closed,Forklift weekly safety inspection,0.4,1,,Done,PM-039,Tech 08
+WO-26230,PM,FL-03,3,2026-10-26 05:00,2026-11-02,2026-11-02 18:24,2026-11-02 19:00,Closed,Forklift weekly safety inspection,0.6,1,,Done,PM-041,Tech 05
+WO-26353,REQ,,4,2026-10-26 13:00,2026-11-02,2026-10-28 13:00,2026-10-31 13:00,Closed,Restroom door closer broken,2.7,1,,Done,,Tech 08
+WO-26306,CM,FIL-3,2,2026-10-26 19:32,2026-10-26,2026-10-26 19:37,2026-10-26 20:25,Closed,"Filler nozzle leaking, replaced o-ring",0.6,1,SEAL,Fixed,,Tech 05
+WO-26357,CM,FIL-3,2,2026-10-26 19:37,2026-10-26,2026-10-26 19:37,2026-10-26 20:25,Closed,"Filler nozzle leaking, replaced o-ring",0.6,1,SEAL,Fixed,,Tech 05
+WO-26007,PM,FIL-1,3,2026-10-27 05:00,2026-11-03,2026-11-03 17:06,2026-11-03 19:00,Closed,Filler lubrication and nozzle inspection,1.9,1,,"Lubed and checked, OK",PM-001,Tech 02
+WO-26204,PM,DOCK-1,3,2026-10-27 05:00,2026-11-03,,,Open,Dock leveler inspection,0,1,,,PM-038,
+WO-26354,REQ,,4,2026-10-27 07:00,2026-11-03,2026-10-28 07:00,2026-10-31 07:00,Closed,Paint walkway lines dock area,1.4,1,,Done,,Tech 06
+WO-26178,PM,RF-05,3,2026-10-29 05:00,2026-11-05,2026-11-05 08:48,2026-11-05 10:00,Closed,"Roof fan inspection: belt, bearings, vibration",1.2,1,,"Completed, no issues found",PM-035,Tech 04
+WO-26244,PM,FL-04,3,2026-10-29 05:00,2026-11-05,2026-11-05 14:30,2026-11-05 15:00,Closed,Forklift weekly safety inspection,0.5,1,,Completed as per task list,PM-043,Tech 04
+WO-26328,CM,FIL-1,2,2026-10-29 08:10,2026-10-29,2026-10-29 09:00,2026-10-29 16:00,Closed,"Line 1 filling heavy, replaced fill valve seals (all 12 valves)",6.5,2,SEAL,Seals worn. Weights back on target after,,Tech 03
+WO-26307,CM,CPK-2,2,2026-10-29 23:11,2026-10-29,2026-10-29 23:15,2026-10-30 02:13,Closed,Case packer 2 down - pump,3.8,1,,Fixed,,Tech 04
+WO-26308,CM,FIL-1,2,2026-10-30 00:21,2026-10-30,2026-10-30 00:28,2026-10-30 01:15,Closed,"Filler nozzle not filling, cleared blockage",0.6,1,OTHER,Done,,Tech 05
+WO-26058,PM,FIL-3,3,2026-10-30 05:00,2026-11-06,,,Closed - not done,Filler lubrication and nozzle inspection,0,1,,Production would not release line,PM-015,
+WO-26069,PM,LAB-3,3,2026-10-30 05:00,2026-11-06,2026-11-06 14:54,2026-11-06 16:00,Closed,"Labeler clean, roller and sensor check",1.1,1,,OK,PM-018,Tech 03
+WO-26078,PM,CNV-3,3,2026-10-30 05:00,2026-11-06,,,Closed - not done,Conveyor chain and guide inspection,0,1,,Line not available,PM-021,
+WO-26087,PM,CMP-2,3,2026-10-30 05:00,2026-11-06,2026-11-07 05:12,2026-11-07 09:00,Closed,"Compressor service: filters, oil, belts",3.8,1,,Done,PM-024,Tech 07
+WO-26110,PM,WWT-1,3,2026-10-30 05:00,2026-11-06,2026-11-06 11:24,2026-11-06 12:00,Closed,pH probe calibration,0.6,1,,Completed as per task list,PM-028,Tech 07
+WO-26355,REQ,,4,2026-10-30 12:00,2026-11-06,2026-11-02 12:00,2026-11-01 12:00,Closed,Paint walkway lines dock area,0.5,1,,Done,,Tech 07
+WO-26309,CM,FIL-1,2,2026-10-31 02:13,2026-10-31,2026-10-31 02:17,2026-10-31 03:00,Closed,"Filler nozzle leaking, replaced o-ring",0.7,1,SEAL,Done,,Tech 07
+WO-26094,PM,AHU-1,3,2026-11-02 05:00,2026-11-09,,,Open,AHU filter change,0,1,,,PM-026,
+WO-26310,CM,CNV-1,2,2026-11-03 07:12,2026-11-03,2026-11-03 07:19,2026-11-03 08:19,Closed,"Transfer plate worn, replaced",0.6,1,MECH,Adjusted and ran,,Tech 02
+WO-26311,CM,FIL-1,2,2026-11-03 16:47,2026-11-03,2026-11-03 16:52,2026-11-03 17:37,Closed,"Filler nozzle leaking, replaced o-ring",0.8,1,SEAL,Adjusted and ran,,Tech 01
+WO-26312,CM,LAB-3,2,2026-11-04 02:29,2026-11-04,2026-11-04 02:32,2026-11-04 03:15,Closed,Label web breaking on LAB-3,0.9,1,,"Adjusted, running",,Tech 02
+WO-26313,CM,LAB-3,2,2026-11-04 07:44,2026-11-04,2026-11-04 07:47,2026-11-04 08:43,Closed,"Labeler 3 jamming, adjusted guides",0.6,1,ADJ,Ran OK after,,Tech 01
+WO-26314,CM,LAB-3,2,2026-11-04 08:04,2026-11-04,2026-11-04 08:06,2026-11-04 08:57,Closed,Label web breaking on LAB-3,0.9,1,,Cleaned peel plate,,Tech 06
+WO-26356,REQ,,4,2026-11-04 10:00,2026-11-11,2026-11-05 10:00,2026-11-10 10:00,Closed,Light out in warehouse aisle 3,2.8,1,,Done,,Tech 02
+WO-26315,CM,LAB-3,2,2026-11-04 19:46,2026-11-04,2026-11-04 19:48,2026-11-04 20:27,Closed,Label web breaking on LAB-3,0.6,1,,"Adjusted, running",,Tech 08
+WO-26316,CM,LAB-3,2,2026-11-04 20:15,2026-11-04,2026-11-04 20:22,2026-11-04 21:08,Closed,"LAB-3 jam again, cleaned and re-threaded",0.5,1,JAM,"Adjusted, running",,Tech 08
+WO-26317,CM,FIL-1,2,2026-11-04 22:19,2026-11-04,2026-11-04 22:23,2026-11-04 23:17,Closed,"Filler stopped, level probe fault",0.7,1,ELEC,OK,,Tech 01
+WO-26318,CM,LAB-3,2,2026-11-04 22:56,2026-11-04,2026-11-04 23:02,2026-11-04 23:56,Closed,"LAB-3 jam again, cleaned and re-threaded",0.6,1,JAM,"Adjusted, running",,Tech 07
+WO-26319,CM,LAB-3,2,2026-11-05 01:53,2026-11-05,2026-11-05 01:59,2026-11-05 02:55,Closed,"LAB-3 jam again, cleaned and re-threaded",0.7,2,JAM,"Adjusted, running",,Tech 04
+WO-26320,CM,LAB-3,2,2026-11-05 07:53,2026-11-05,2026-11-05 07:58,2026-11-05 08:38,Closed,"Labeler 3 jamming, adjusted guides",0.6,1,ADJ,"Adjusted, running",,Tech 01
+WO-26321,CM,FIL-1,2,2026-11-05 12:02,2026-11-05,2026-11-05 12:06,2026-11-05 13:03,Closed,"Filler nozzle leaking, replaced o-ring",0.7,1,SEAL,Fixed,,Tech 06
+WO-26322,CM,LAB-3,2,2026-11-05 18:51,2026-11-05,2026-11-05 18:58,2026-11-05 19:56,Closed,"Labeler 3 jamming, adjusted guides",0.7,2,ADJ,Cleaned peel plate,,Tech 06
+WO-26323,CM,LAB-3,2,2026-11-06 02:07,2026-11-06,2026-11-06 02:09,2026-11-06 02:56,Closed,"Labeler 3 jamming, adjusted guides",0.6,1,ADJ,Ran OK after,,Tech 02
+WO-26324,CM,LAB-3,2,2026-11-06 07:31,2026-11-06,2026-11-06 07:38,2026-11-06 08:25,Closed,"Labeler 3 jamming, adjusted guides",0.6,1,ADJ,Ran OK after,,Tech 03
+WO-26329,CM,LAB-3,1,2026-11-06 10:20,2026-11-06,2026-11-06 10:40,,Open,"LAB-3 repeated jams since Tue. Suspect label stock, liner feels thinner on new rolls",0,1,,,,Tech 05
+WO-26325,CM,FIL-1,2,2026-11-06 15:41,2026-11-06,2026-11-06 15:48,2026-11-06 16:16,Closed,"Filler nozzle leaking, replaced o-ring",0.6,1,SEAL,OK,,Tech 03
+WO-26359,CM,FIL-1,2,2026-11-06 15:47,2026-11-06,2026-11-06 15:48,2026-11-06 16:16,Closed,"Filler nozzle leaking, replaced o-ring",0.6,1,SEAL,OK,,Tech 03
+WO-26326,CM,CNV-1,2,2026-11-07 01:55,2026-11-07,2026-11-07 02:00,2026-11-07 02:44,Closed,"Conveyor chain jumped, re-tensioned",0.5,1,MECH,Fixed,,Tech 01
+WO-26327,CM,LAB-3,2,2026-11-07 02:14,2026-11-07,2026-11-07 02:19,2026-11-07 02:53,Closed,"LAB-3 jam again, cleaned and re-threaded",0.7,1,JAM,Cleaned peel plate,,Tech 04

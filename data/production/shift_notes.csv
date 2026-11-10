@@ -1,0 +1,85 @@
+date,shift,area,author,note
+2026-08-11,B,Line 3,Supervisor,Good run
+2026-08-13,A,Line 1,Supervisor,"Slow start, waiting on batch release"
+2026-08-13,B,Line 1,Supervisor,Cleaned under filler at end of shift
+2026-08-13,C,Line 3,Supervisor,Normal shift
+2026-08-14,A,Line 2,Supervisor,"Short one operator, covered with float"
+2026-08-14,B,Line 1,Supervisor,Good run
+2026-08-14,B,Line 2,Supervisor,Good run
+2026-08-17,B,Line 1,Supervisor,"QA hold on one pallet, released"
+2026-08-17,B,Line 2,Supervisor,"QA hold on one pallet, released"
+2026-08-17,C,Line 2,Supervisor,Ran well
+2026-08-18,A,Line 3,Supervisor,"Short one operator, covered with float"
+2026-08-19,C,Line 3,Supervisor,Cleaned under filler at end of shift
+2026-08-24,C,Line 1,Supervisor,Ran well
+2026-08-24,C,Line 2,Supervisor,Cleaned under filler at end of shift
+2026-08-25,A,Line 3,Supervisor,"Short one operator, covered with float"
+2026-08-25,C,Line 1,Supervisor,Good run
+2026-08-26,A,Line 1,Supervisor,Cleaned under filler at end of shift
+2026-08-26,B,Line 1,Supervisor,Normal shift
+2026-08-27,B,Line 3,Supervisor,Cleaned under filler at end of shift
+2026-08-27,C,Line 3,Supervisor,Normal shift
+2026-08-28,A,Line 3,Supervisor,Normal shift
+2026-08-28,B,Line 1,Supervisor,"QA hold on one pallet, released"
+2026-08-28,C,Line 1,Supervisor,Cleaned under filler at end of shift
+2026-08-31,A,Line 2,Supervisor,"Slow start, waiting on batch release"
+2026-09-01,A,Line 3,Supervisor,Ran well
+2026-09-02,B,Line 2,Supervisor,"Short one operator, covered with float"
+2026-09-02,C,Line 3,Supervisor,"QA hold on one pallet, released"
+2026-09-04,B,Line 3,Supervisor,Cleaned under filler at end of shift
+2026-09-08,A,Line 2,Supervisor,Cleaned under filler at end of shift
+2026-09-08,B,Line 1,Supervisor,"Slow start, waiting on batch release"
+2026-09-08,B,Line 3,Supervisor,"Short one operator, covered with float"
+2026-09-09,B,Line 2,Supervisor,Ran well
+2026-09-09,C,Line 1,Supervisor,"Short one operator, covered with float"
+2026-09-10,A,Line 3,Supervisor,Normal shift
+2026-09-14,C,Line 2,Supervisor,"Short one operator, covered with float"
+2026-09-14,C,Line 3,Supervisor,Normal shift
+2026-09-15,A,Line 3,Supervisor,"QA hold on one pallet, released"
+2026-09-16,A,Line 3,Supervisor,Normal shift
+2026-09-16,C,Line 3,Supervisor,"QA hold on one pallet, released"
+2026-09-17,B,Line 1,Supervisor,"QA hold on one pallet, released"
+2026-09-17,B,Line 3,Supervisor,"Short one operator, covered with float"
+2026-09-21,A,Line 1,Supervisor,Ran well
+2026-09-21,A,Utilities,Maintenance,"Night walk: heard air hissing near the Line 2 drop, could not find it"
+2026-09-21,B,Line 3,Supervisor,"Short one operator, covered with float"
+2026-09-25,C,Line 1,Supervisor,Normal shift
+2026-09-28,C,Line 1,Supervisor,"Short one operator, covered with float"
+2026-09-29,C,Line 3,Supervisor,"QA hold on one pallet, released"
+2026-09-30,A,Line 2,Supervisor,"2 L to 500 ml changeover took long again, waited on change parts from the crib"
+2026-09-30,A,Line 2,Supervisor,"QA hold on one pallet, released"
+2026-09-30,C,Line 1,Supervisor,"Short one operator, covered with float"
+2026-10-01,A,Line 3,Supervisor,"Slow start, waiting on batch release"
+2026-10-01,C,Line 3,Supervisor,Cleaned under filler at end of shift
+2026-10-02,A,Line 3,Supervisor,"QA hold on one pallet, released"
+2026-10-05,A,Line 1,Supervisor,Good run
+2026-10-06,B,Line 2,Supervisor,Ran well
+2026-10-09,A,Line 3,Supervisor,"Short one operator, covered with float"
+2026-10-12,B,Line 1,Supervisor,"QA says fill weights running heavy on Line 1, operator nudged setpoint down"
+2026-10-12,C,Line 2,Supervisor,"QA hold on one pallet, released"
+2026-10-13,A,Line 2,Maintenance,Case packer vacuum pump bearing again. Third one. No spare in stores
+2026-10-13,A,Line 3,Supervisor,Good run
+2026-10-13,C,Line 3,Supervisor,Good run
+2026-10-15,C,Line 3,Supervisor,"Slow start, waiting on batch release"
+2026-10-16,C,Line 3,Supervisor,Normal shift
+2026-10-19,A,Line 1,Supervisor,Ran well
+2026-10-19,B,Line 2,Supervisor,"Slow start, waiting on batch release"
+2026-10-20,A,Line 1,Supervisor,Normal shift
+2026-10-21,A,Line 1,Supervisor,"Fill weights heavy again, setpoint adjusted"
+2026-10-23,C,Line 3,Supervisor,"Slow start, waiting on batch release"
+2026-10-26,C,Line 1,Supervisor,"Slow start, waiting on batch release"
+2026-10-27,A,Line 1,Supervisor,"Short one operator, covered with float"
+2026-10-27,C,Line 2,Supervisor,"Changeover to 500 ml, change parts missing a guide, 30 min looking"
+2026-10-29,B,Line 1,Maintenance,"Replaced all fill valve seals on Line 1, weights back to normal"
+2026-10-29,B,Line 3,Supervisor,Normal shift
+2026-10-30,A,Line 3,Supervisor,"Slow start, waiting on batch release"
+2026-10-30,B,Line 2,Supervisor,Good run
+2026-11-03,B,Line 1,Supervisor,"Short one operator, covered with float"
+2026-11-03,C,Line 3,Supervisor,New label stock from Brightline started tonight. Jams started about an hour later
+2026-11-04,A,Line 3,Supervisor,"Mislabeled cases found at end of line, held and reworked"
+2026-11-05,A,Line 1,Supervisor,Cleaned under filler at end of shift
+2026-11-05,B,Line 2,Supervisor,"Caps arrived late, Line 2 waited about 3 hours"
+2026-11-05,B,Line 3,Supervisor,Normal shift
+2026-11-06,A,Line 3,Supervisor,Normal shift
+2026-11-06,A,Plant,Supervisor,4 of this week's near misses came from the new walkway cards
+2026-11-07,A,Line 1,Supervisor,Saturday shift on Line 1 to catch up on plan

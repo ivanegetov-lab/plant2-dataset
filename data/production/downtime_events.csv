@@ -1,0 +1,786 @@
+start,date,shift,line,asset_id,cause,minutes,operator_comment
+2026-08-10 07:37,2026-08-10,A,Line 2,,Waiting on maintenance,30,waiting on electrician
+2026-08-10 14:02,2026-08-10,B,Line 3,,Changeovers,36,changeover DS-0750 to DS-0750-ECO
+2026-08-10 16:42,2026-08-10,B,Line 3,CAP-3,Capper faults,12,cap chute jam
+2026-08-10 18:20,2026-08-10,B,Line 3,FIL-3,Filler faults,14,nozzle 7 not filling
+2026-08-10 18:39,2026-08-10,B,Line 2,CPK-2,Case packer faults,16,case packer jam
+2026-08-10 18:42,2026-08-10,B,Line 3,LAB-3,Labeler jams,4,label sensor fault
+2026-08-10 20:03,2026-08-10,B,Line 1,FIL-1,Filler faults,21,bowl level alarm
+2026-08-10 20:22,2026-08-10,B,Line 1,CAP-1,Capper faults,14,capper torque fault
+2026-08-10 20:40,2026-08-10,B,Line 3,CAP-3,Capper faults,17,cap chute jam
+2026-08-10 22:45,2026-08-10,C,Line 1,,Other,17,power blip
+2026-08-10 23:55,2026-08-10,C,Line 1,,Waiting on maintenance,29,waiting on mechanic
+2026-08-11 03:21,2026-08-10,C,Line 2,CPK-2,Case packer faults,14,glue fault
+2026-08-11 03:45,2026-08-10,C,Line 2,CPK-2,Case packer faults,16,"case packer stopped, flaps"
+2026-08-11 06:02,2026-08-11,A,Line 2,,Changeovers,84,changeover FS-2000 to FS-0500
+2026-08-11 07:19,2026-08-11,A,Line 2,FIL-2,Filler faults,24,"filler stopped, low product"
+2026-08-11 10:00,2026-08-11,A,Line 1,CPK-1,Case packer faults,11,"case packer stopped, flaps"
+2026-08-11 14:02,2026-08-11,B,Line 3,,Changeovers,29,changeover DS-0750-ECO to DS-0750
+2026-08-11 22:31,2026-08-11,C,Line 1,,Other,30,forklift blocking line
+2026-08-12 00:30,2026-08-11,C,Line 3,FIL-3,Filler faults,6,filler nozzle dripping
+2026-08-12 03:06,2026-08-11,C,Line 3,CPK-3,Case packer faults,8,case packer jam
+2026-08-12 08:46,2026-08-12,A,Line 2,CAP-2,Capper faults,8,cap chute jam
+2026-08-12 10:14,2026-08-12,A,Line 3,CAP-3,Capper faults,19,capper torque fault
+2026-08-12 14:02,2026-08-12,B,Line 2,,Changeovers,42,changeover FS-0500 to FS-2000
+2026-08-12 15:39,2026-08-12,B,Line 3,LAB-3,Labeler jams,21,label sensor fault
+2026-08-12 17:04,2026-08-12,B,Line 1,CAP-1,Capper faults,17,capper head 3 slipping
+2026-08-12 19:56,2026-08-12,B,Line 2,FIL-2,Filler faults,15,nozzle 7 not filling
+2026-08-12 20:43,2026-08-12,B,Line 3,CPK-3,Case packer faults,14,case packer jam
+2026-08-12 23:42,2026-08-12,C,Line 2,CNV-2,Conveyor,9,guide rail loose
+2026-08-12 23:44,2026-08-12,C,Line 3,CNV-3,Conveyor,16,jam at transfer
+2026-08-13 06:18,2026-08-13,A,Line 2,CPK-2,Case packer faults,4,case packer jam
+2026-08-13 07:45,2026-08-13,A,Line 2,CAP-2,Capper faults,19,missing caps
+2026-08-13 12:05,2026-08-13,A,Line 1,CAP-1,Capper faults,38,missing caps
+2026-08-13 14:02,2026-08-13,B,Line 1,,Changeovers,36,changeover AC-1000 to AC-1000-LEM
+2026-08-13 16:39,2026-08-13,B,Line 1,CAP-1,Capper faults,10,capper head 3 slipping
+2026-08-13 19:41,2026-08-13,B,Line 1,CAP-1,Capper faults,14,missing caps
+2026-08-13 22:02,2026-08-13,C,Line 1,,Changeovers,35,changeover AC-1000-LEM to AC-1000
+2026-08-13 22:02,2026-08-13,C,Line 3,,Changeovers,38,changeover DS-0750 to DS-0750-ECO
+2026-08-13 23:13,2026-08-13,C,Line 1,CNV-1,Conveyor,4,guide rail loose
+2026-08-14 00:47,2026-08-13,C,Line 1,FIL-1,Filler faults,14,filler nozzle dripping
+2026-08-14 01:27,2026-08-13,C,Line 2,FIL-2,Filler faults,20,fill valve sticking
+2026-08-14 03:47,2026-08-13,C,Line 3,CNV-3,Conveyor,22,jam at transfer
+2026-08-14 09:05,2026-08-14,A,Line 1,CNV-1,Conveyor,21,guide rail loose
+2026-08-14 12:09,2026-08-14,A,Line 2,CAP-2,Capper faults,13,caps cross threading
+2026-08-14 20:10,2026-08-14,B,Line 2,CPK-2,Case packer faults,4,glue fault
+2026-08-14 22:02,2026-08-14,C,Line 1,,Changeovers,29,changeover AC-1000 to AC-1000-LEM
+2026-08-15 02:32,2026-08-14,C,Line 3,CAP-3,Capper faults,12,capper head 3 slipping
+2026-08-15 05:00,2026-08-14,C,Line 1,,Other,11,waiting on QA release
+2026-08-17 11:03,2026-08-17,A,Line 3,CAP-3,Capper faults,21,capper torque fault
+2026-08-17 11:26,2026-08-17,A,Line 3,CNV-3,Conveyor,5,bottles down on conveyor
+2026-08-17 15:07,2026-08-17,B,Line 2,CAP-2,Capper faults,11,missing caps
+2026-08-17 15:43,2026-08-17,B,Line 1,LAB-1,Labeler jams,4,web break
+2026-08-17 16:05,2026-08-17,B,Line 3,CPK-3,Case packer faults,37,glue fault
+2026-08-17 17:21,2026-08-17,B,Line 3,FIL-3,Filler faults,10,filler nozzle dripping
+2026-08-17 18:48,2026-08-17,B,Line 3,CAP-3,Capper faults,16,missing caps
+2026-08-17 20:47,2026-08-17,B,Line 1,FIL-1,Filler faults,10,nozzle 7 not filling
+2026-08-17 22:02,2026-08-17,C,Line 2,,Changeovers,77,changeover FS-2000 to FS-0500
+2026-08-18 00:28,2026-08-17,C,Line 2,CNV-2,Conveyor,6,guide rail loose
+2026-08-18 01:23,2026-08-17,C,Line 3,,Waiting on maintenance,30,tech on other job
+2026-08-18 01:47,2026-08-17,C,Line 2,FIL-2,Filler faults,15,nozzle 7 not filling
+2026-08-18 02:35,2026-08-17,C,Line 1,FIL-1,Filler faults,26,nozzle 7 not filling
+2026-08-18 04:07,2026-08-17,C,Line 3,CPK-3,Case packer faults,9,case packer jam
+2026-08-18 04:41,2026-08-17,C,Line 3,CAP-3,Capper faults,12,cap chute jam
+2026-08-18 06:02,2026-08-18,A,Line 1,,Changeovers,40,changeover AC-1000-LEM to AC-1000
+2026-08-18 06:02,2026-08-18,A,Line 2,,Changeovers,44,changeover FS-0500 to FS-2000
+2026-08-18 07:58,2026-08-18,A,Line 3,CNV-3,Conveyor,26,bottles down on conveyor
+2026-08-18 08:18,2026-08-18,A,Line 3,CPK-3,Case packer faults,4,case packer jam
+2026-08-18 10:59,2026-08-18,A,Line 2,CNV-2,Conveyor,8,bottles down on conveyor
+2026-08-18 11:57,2026-08-18,A,Line 1,,Other,27,waiting on QA release
+2026-08-18 14:48,2026-08-18,B,Line 2,CAP-2,Capper faults,9,missing caps
+2026-08-18 16:25,2026-08-18,B,Line 1,CPK-1,Case packer faults,7,no case erected
+2026-08-18 16:51,2026-08-18,B,Line 1,FIL-1,Filler faults,16,fill valve sticking
+2026-08-18 17:16,2026-08-18,B,Line 3,FIL-3,Filler faults,12,nozzle 7 not filling
+2026-08-18 17:21,2026-08-18,B,Line 3,CNV-3,Conveyor,29,bottles down on conveyor
+2026-08-19 01:19,2026-08-18,C,Line 2,CAP-2,Capper faults,25,capper torque fault
+2026-08-19 03:35,2026-08-18,C,Line 3,LAB-3,Labeler jams,11,label jam
+2026-08-19 04:32,2026-08-18,C,Line 2,FIL-2,Filler faults,24,fill valve sticking
+2026-08-19 06:02,2026-08-19,A,Line 3,,Changeovers,35,changeover DS-0750-ECO to DS-0750
+2026-08-19 06:54,2026-08-19,A,Line 3,,Waiting on maintenance,34,waiting on mechanic
+2026-08-19 07:52,2026-08-19,A,Line 1,FIL-1,Filler faults,18,bowl level alarm
+2026-08-19 08:36,2026-08-19,A,Line 2,LAB-2,Labeler jams,10,labels skewed
+2026-08-19 14:02,2026-08-19,B,Line 1,,Changeovers,32,changeover AC-1000 to AC-1000-LEM
+2026-08-19 14:21,2026-08-19,B,Line 3,FIL-3,Filler faults,21,fill valve sticking
+2026-08-19 16:36,2026-08-19,B,Line 1,FIL-1,Filler faults,5,fill valve sticking
+2026-08-19 20:34,2026-08-19,B,Line 3,CNV-3,Conveyor,28,guide rail loose
+2026-08-19 23:52,2026-08-19,C,Line 3,CNV-3,Conveyor,6,jam at transfer
+2026-08-20 01:49,2026-08-19,C,Line 1,LAB-1,Labeler jams,5,web break
+2026-08-20 02:06,2026-08-19,C,Line 1,LAB-1,Labeler jams,11,label sensor fault
+2026-08-20 02:08,2026-08-19,C,Line 1,FIL-1,Filler faults,25,nozzle 7 not filling
+2026-08-20 02:14,2026-08-19,C,Line 2,CNV-2,Conveyor,19,conveyor backup
+2026-08-20 06:45,2026-08-20,A,Line 3,FIL-3,Filler faults,62,"filler e-stop, reset"
+2026-08-20 11:08,2026-08-20,A,Line 1,FIL-1,Filler faults,30,"filler stopped, low product"
+2026-08-20 14:02,2026-08-20,B,Line 3,,Changeovers,36,changeover DS-0750 to DS-0750-ECO
+2026-08-21 00:09,2026-08-20,C,Line 2,CNV-2,Conveyor,8,bottles down on conveyor
+2026-08-21 02:53,2026-08-20,C,Line 2,CNV-2,Conveyor,10,bottles down on conveyor
+2026-08-21 05:15,2026-08-20,C,Line 1,CAP-1,Capper faults,4,cap chute jam
+2026-08-21 06:02,2026-08-21,A,Line 1,,Changeovers,37,changeover AC-1000-LEM to AC-1000
+2026-08-21 06:02,2026-08-21,A,Line 2,,Changeovers,69,changeover FS-2000 to FS-0500
+2026-08-21 06:02,2026-08-21,A,Line 3,,Changeovers,29,changeover DS-0750-ECO to DS-0750
+2026-08-21 06:29,2026-08-21,A,Line 1,FIL-1,Filler faults,15,filler nozzle dripping
+2026-08-21 08:15,2026-08-21,A,Line 1,CPK-1,Case packer faults,23,"case packer stopped, flaps"
+2026-08-21 11:28,2026-08-21,A,Line 1,CNV-1,Conveyor,23,bottles down on conveyor
+2026-08-21 12:08,2026-08-21,A,Line 1,FIL-1,Filler faults,14,"filler e-stop, reset"
+2026-08-21 12:28,2026-08-21,A,Line 1,,Other,27,cleaning spill
+2026-08-21 14:02,2026-08-21,B,Line 3,,Changeovers,39,changeover DS-0750 to DS-0750-ECO
+2026-08-21 15:11,2026-08-21,B,Line 3,CPK-3,Case packer faults,15,no case erected
+2026-08-21 15:33,2026-08-21,B,Line 2,CPK-2,Case packer faults,14,"case packer stopped, flaps"
+2026-08-21 17:02,2026-08-21,B,Line 3,FIL-3,Filler faults,10,"filler e-stop, reset"
+2026-08-21 17:55,2026-08-21,B,Line 2,CPK-2,Case packer faults,6,no case erected
+2026-08-21 20:31,2026-08-21,B,Line 3,LAB-3,Labeler jams,14,label jam
+2026-08-21 23:02,2026-08-21,C,Line 3,FIL-3,Filler faults,19,filler nozzle dripping
+2026-08-22 00:09,2026-08-21,C,Line 2,,Other,10,operator break coverage
+2026-08-22 02:14,2026-08-21,C,Line 1,CAP-1,Capper faults,24,cap chute jam
+2026-08-24 09:08,2026-08-24,A,Line 3,CPK-3,Case packer faults,12,"case packer stopped, flaps"
+2026-08-24 10:42,2026-08-24,A,Line 3,CPK-3,Case packer faults,14,glue fault
+2026-08-24 11:37,2026-08-24,A,Line 1,CPK-1,Case packer faults,23,vacuum low
+2026-08-24 15:29,2026-08-24,B,Line 1,CPK-1,Case packer faults,9,glue fault
+2026-08-24 18:55,2026-08-24,B,Line 1,CNV-1,Conveyor,12,conveyor backup
+2026-08-24 18:58,2026-08-24,B,Line 2,,Other,17,forklift blocking line
+2026-08-24 22:02,2026-08-24,C,Line 2,,Changeovers,37,changeover FS-0500 to FS-2000
+2026-08-24 22:18,2026-08-24,C,Line 2,LAB-2,Labeler jams,3,label sensor fault
+2026-08-24 23:34,2026-08-24,C,Line 3,LAB-3,Labeler jams,10,labels skewed
+2026-08-24 23:36,2026-08-24,C,Line 1,LAB-1,Labeler jams,11,web break
+2026-08-25 04:31,2026-08-24,C,Line 2,,Other,9,forklift blocking line
+2026-08-25 05:06,2026-08-24,C,Line 1,CAP-1,Capper faults,8,caps cross threading
+2026-08-25 06:02,2026-08-25,A,Line 3,,Changeovers,32,changeover DS-0750-ECO to DS-0750
+2026-08-25 06:57,2026-08-25,A,Line 3,,Waiting on maintenance,34,tech on other job
+2026-08-25 10:01,2026-08-25,A,Line 2,FIL-2,Filler faults,9,fill valve sticking
+2026-08-25 10:21,2026-08-25,A,Line 1,CNV-1,Conveyor,15,jam at transfer
+2026-08-25 12:12,2026-08-25,A,Line 1,FIL-1,Filler faults,18,"filler e-stop, reset"
+2026-08-25 12:17,2026-08-25,A,Line 1,CNV-1,Conveyor,5,conveyor backup
+2026-08-25 14:02,2026-08-25,B,Line 1,,Changeovers,31,changeover AC-1000 to AC-1000-LEM
+2026-08-25 14:02,2026-08-25,B,Line 2,,Changeovers,74,changeover FS-2000 to FS-0500
+2026-08-25 14:12,2026-08-25,B,Line 1,FIL-1,Filler faults,17,"filler e-stop, reset"
+2026-08-25 14:32,2026-08-25,B,Line 3,CNV-3,Conveyor,10,conveyor backup
+2026-08-25 14:49,2026-08-25,B,Line 1,CPK-1,Case packer faults,18,glue fault
+2026-08-25 15:26,2026-08-25,B,Line 3,LAB-3,Labeler jams,4,labels not applying
+2026-08-25 16:38,2026-08-25,B,Line 2,LAB-2,Labeler jams,10,label jam
+2026-08-25 18:26,2026-08-25,B,Line 2,CAP-2,Capper faults,6,cap chute jam
+2026-08-25 19:35,2026-08-25,B,Line 1,FIL-1,Filler faults,18,filler nozzle dripping
+2026-08-25 22:39,2026-08-25,C,Line 3,CNV-3,Conveyor,4,bottles down on conveyor
+2026-08-25 23:01,2026-08-25,C,Line 3,FIL-3,Filler faults,11,nozzle 7 not filling
+2026-08-26 01:53,2026-08-25,C,Line 2,CAP-2,Capper faults,7,capper torque fault
+2026-08-26 06:02,2026-08-26,A,Line 1,,Changeovers,35,changeover AC-1000-LEM to AC-1000
+2026-08-26 07:00,2026-08-26,A,Line 1,LAB-1,Labeler jams,7,labels skewed
+2026-08-26 07:24,2026-08-26,A,Line 2,CAP-2,Capper faults,16,capper torque fault
+2026-08-26 15:53,2026-08-26,B,Line 1,CAP-1,Capper faults,10,capper head 3 slipping
+2026-08-26 22:02,2026-08-26,C,Line 1,,Changeovers,31,changeover AC-1000 to AC-1000-LEM
+2026-08-26 22:02,2026-08-26,C,Line 3,,Changeovers,38,changeover DS-0750 to DS-0750-ECO
+2026-08-27 02:59,2026-08-26,C,Line 1,,Other,10,power blip
+2026-08-27 07:02,2026-08-27,A,Line 2,CPK-2,Case packer faults,14,glue fault
+2026-08-27 09:09,2026-08-27,A,Line 3,,Other,12,cleaning spill
+2026-08-27 14:32,2026-08-27,B,Line 1,LAB-1,Labeler jams,15,web break
+2026-08-27 15:40,2026-08-27,B,Line 2,CPK-2,Case packer faults,128,case packer vacuum pump loud then stopped
+2026-08-27 17:48,2026-08-27,B,Line 2,CPK-2,Waiting on maintenance,40,waiting on bearing from vendor
+2026-08-27 19:49,2026-08-27,B,Line 1,FIL-1,Filler faults,9,filler nozzle dripping
+2026-08-27 22:02,2026-08-27,C,Line 3,,Changeovers,30,changeover DS-0750-ECO to DS-0750
+2026-08-28 01:12,2026-08-27,C,Line 2,CAP-2,Capper faults,10,cap chute jam
+2026-08-28 06:02,2026-08-28,A,Line 2,,Changeovers,41,changeover FS-0500 to FS-2000
+2026-08-28 10:50,2026-08-28,A,Line 1,,Waiting on maintenance,20,tech on other job
+2026-08-28 10:51,2026-08-28,A,Line 3,FIL-3,Filler faults,11,nozzle 7 not filling
+2026-08-28 14:27,2026-08-28,B,Line 1,CPK-1,Case packer faults,19,"case packer stopped, flaps"
+2026-08-28 14:51,2026-08-28,B,Line 3,,Other,14,operator break coverage
+2026-08-28 18:15,2026-08-28,B,Line 3,CAP-3,Capper faults,20,capper head 3 slipping
+2026-08-28 18:34,2026-08-28,B,Line 3,,Material short,65,out of corrugate
+2026-08-28 19:14,2026-08-28,B,Line 2,CAP-2,Capper faults,10,missing caps
+2026-08-28 19:51,2026-08-28,B,Line 3,CAP-3,Capper faults,12,capper torque fault
+2026-08-28 20:39,2026-08-28,B,Line 2,CAP-2,Capper faults,22,capper torque fault
+2026-08-28 22:33,2026-08-28,C,Line 1,CNV-1,Conveyor,16,guide rail loose
+2026-08-28 23:06,2026-08-28,C,Line 1,CNV-1,Conveyor,4,conveyor backup
+2026-08-29 00:25,2026-08-28,C,Line 2,FIL-2,Filler faults,18,filler nozzle dripping
+2026-08-29 03:16,2026-08-28,C,Line 1,,Other,19,waiting on QA release
+2026-08-29 04:10,2026-08-28,C,Line 3,CNV-3,Conveyor,20,jam at transfer
+2026-08-29 04:17,2026-08-28,C,Line 3,CNV-3,Conveyor,10,jam at transfer
+2026-08-31 06:55,2026-08-31,A,Line 3,CNV-3,Conveyor,14,jam at transfer
+2026-08-31 08:47,2026-08-31,A,Line 1,CAP-1,Capper faults,30,missing caps
+2026-08-31 20:27,2026-08-31,B,Line 1,CNV-1,Conveyor,35,bottles down on conveyor
+2026-08-31 23:01,2026-08-31,C,Line 2,CPK-2,Case packer faults,9,"case packer stopped, flaps"
+2026-09-01 06:02,2026-09-01,A,Line 2,,Changeovers,87,changeover FS-2000 to FS-0500
+2026-09-01 06:02,2026-09-01,A,Line 3,,Changeovers,36,changeover DS-0750 to DS-0750-ECO
+2026-09-01 07:41,2026-09-01,A,Line 2,FIL-2,Filler faults,8,"filler e-stop, reset"
+2026-09-01 07:42,2026-09-01,A,Line 2,CAP-2,Capper faults,18,capper torque fault
+2026-09-01 07:53,2026-09-01,A,Line 3,,Material short,65,no caps
+2026-09-01 08:56,2026-09-01,A,Line 1,FIL-1,Filler faults,11,"filler stopped, low product"
+2026-09-01 09:36,2026-09-01,A,Line 1,FIL-1,Filler faults,14,bowl level alarm
+2026-09-01 17:08,2026-09-01,B,Line 2,LAB-2,Labeler jams,8,label jam
+2026-09-01 18:30,2026-09-01,B,Line 1,LAB-1,Labeler jams,9,labels skewed
+2026-09-01 23:46,2026-09-01,C,Line 2,,Other,9,waiting on QA release
+2026-09-02 00:42,2026-09-01,C,Line 3,LAB-3,Labeler jams,12,web break
+2026-09-02 01:17,2026-09-01,C,Line 2,CNV-2,Conveyor,10,guide rail loose
+2026-09-02 02:26,2026-09-01,C,Line 2,CPK-2,Case packer faults,3,glue fault
+2026-09-02 03:25,2026-09-01,C,Line 2,CPK-2,Case packer faults,31,glue fault
+2026-09-02 04:25,2026-09-01,C,Line 1,CPK-1,Case packer faults,5,no case erected
+2026-09-02 06:02,2026-09-02,A,Line 1,,Changeovers,38,changeover AC-1000-LEM to AC-1000
+2026-09-02 09:00,2026-09-02,A,Line 2,CNV-2,Conveyor,10,jam at transfer
+2026-09-02 09:52,2026-09-02,A,Line 3,FIL-3,Filler faults,10,bowl level alarm
+2026-09-02 09:56,2026-09-02,A,Line 1,FIL-1,Filler faults,12,"filler stopped, low product"
+2026-09-02 11:27,2026-09-02,A,Line 1,CNV-1,Conveyor,11,bottles down on conveyor
+2026-09-02 11:58,2026-09-02,A,Line 2,FIL-2,Filler faults,8,"filler stopped, low product"
+2026-09-02 12:57,2026-09-02,A,Line 2,CAP-2,Capper faults,14,missing caps
+2026-09-02 19:58,2026-09-02,B,Line 3,CPK-3,Case packer faults,25,case packer jam
+2026-09-02 20:23,2026-09-02,B,Line 1,CAP-1,Capper faults,3,missing caps
+2026-09-03 01:25,2026-09-02,C,Line 1,CNV-1,Conveyor,12,guide rail loose
+2026-09-03 06:02,2026-09-03,A,Line 1,,Changeovers,31,changeover AC-1000 to AC-1000-LEM
+2026-09-03 06:02,2026-09-03,A,Line 2,,Changeovers,44,changeover FS-0500 to FS-2000
+2026-09-03 06:46,2026-09-03,A,Line 2,,Waiting on maintenance,20,tech on other job
+2026-09-03 07:18,2026-09-03,A,Line 1,FIL-1,Filler faults,26,nozzle 7 not filling
+2026-09-03 10:12,2026-09-03,A,Line 1,FIL-1,Filler faults,10,fill valve sticking
+2026-09-03 12:37,2026-09-03,A,Line 3,FIL-3,Filler faults,8,filler nozzle dripping
+2026-09-03 14:02,2026-09-03,B,Line 1,,Changeovers,30,changeover AC-1000-LEM to AC-1000
+2026-09-03 14:13,2026-09-03,B,Line 1,FIL-1,Filler faults,16,fill valve sticking
+2026-09-03 14:45,2026-09-03,B,Line 2,CPK-2,Case packer faults,13,case packer jam
+2026-09-03 15:07,2026-09-03,B,Line 3,CAP-3,Capper faults,9,capper head 3 slipping
+2026-09-03 15:44,2026-09-03,B,Line 3,,Material short,55,no caps
+2026-09-03 19:03,2026-09-03,B,Line 3,,Other,23,forklift blocking line
+2026-09-03 20:06,2026-09-03,B,Line 1,CNV-1,Conveyor,14,guide rail loose
+2026-09-03 20:53,2026-09-03,B,Line 1,CNV-1,Conveyor,4,bottles down on conveyor
+2026-09-03 21:09,2026-09-03,B,Line 2,CAP-2,Capper faults,3,capper torque fault
+2026-09-03 22:02,2026-09-03,C,Line 3,,Changeovers,30,changeover DS-0750-ECO to DS-0750
+2026-09-03 22:47,2026-09-03,C,Line 1,LAB-1,Labeler jams,6,label jam
+2026-09-03 23:00,2026-09-03,C,Line 3,FIL-3,Filler faults,12,filler nozzle dripping
+2026-09-04 02:29,2026-09-03,C,Line 1,LAB-1,Labeler jams,6,labels skewed
+2026-09-04 02:50,2026-09-03,C,Line 2,FIL-2,Filler faults,8,"filler e-stop, reset"
+2026-09-04 03:40,2026-09-03,C,Line 3,CAP-3,Capper faults,20,caps cross threading
+2026-09-04 06:02,2026-09-04,A,Line 1,,Changeovers,25,changeover AC-1000 to AC-1000-LEM
+2026-09-04 08:11,2026-09-04,A,Line 2,LAB-2,Labeler jams,11,labels skewed
+2026-09-04 17:40,2026-09-04,B,Line 1,FIL-1,Filler faults,19,nozzle 7 not filling
+2026-09-04 18:10,2026-09-04,B,Line 3,CNV-3,Conveyor,11,jam at transfer
+2026-09-04 18:37,2026-09-04,B,Line 1,,Other,20,waiting on QA release
+2026-09-04 20:47,2026-09-04,B,Line 3,LAB-3,Labeler jams,4,label jam
+2026-09-04 22:02,2026-09-04,C,Line 1,,Changeovers,42,changeover AC-1000-LEM to AC-1000
+2026-09-04 22:02,2026-09-04,C,Line 2,,Changeovers,81,changeover FS-2000 to FS-0500
+2026-09-04 22:21,2026-09-04,C,Line 1,CPK-1,Case packer faults,29,"case packer stopped, flaps"
+2026-09-04 22:28,2026-09-04,C,Line 3,,Other,11,waiting on QA release
+2026-09-04 22:33,2026-09-04,C,Line 1,CNV-1,Conveyor,9,guide rail loose
+2026-09-04 23:11,2026-09-04,C,Line 3,CPK-3,Case packer faults,7,glue fault
+2026-09-05 00:38,2026-09-04,C,Line 1,,Other,14,power blip
+2026-09-05 02:25,2026-09-04,C,Line 2,,Other,38,power blip
+2026-09-05 02:56,2026-09-04,C,Line 2,,Waiting on maintenance,24,waiting on mechanic
+2026-09-05 04:01,2026-09-04,C,Line 2,CNV-2,Conveyor,3,guide rail loose
+2026-09-08 12:19,2026-09-08,A,Line 2,CPK-2,Case packer faults,23,vacuum low
+2026-09-08 14:28,2026-09-08,B,Line 2,CNV-2,Conveyor,3,guide rail loose
+2026-09-08 15:10,2026-09-08,B,Line 3,FIL-3,Filler faults,27,fill valve sticking
+2026-09-08 15:34,2026-09-08,B,Line 1,CAP-1,Capper faults,9,capper head 3 slipping
+2026-09-08 16:24,2026-09-08,B,Line 1,,Other,21,operator break coverage
+2026-09-08 22:02,2026-09-08,C,Line 1,,Changeovers,27,changeover AC-1000 to AC-1000-LEM
+2026-09-08 22:02,2026-09-08,C,Line 3,,Changeovers,31,changeover DS-0750 to DS-0750-ECO
+2026-09-08 22:38,2026-09-08,C,Line 2,CPK-2,Case packer faults,8,vacuum low
+2026-09-09 01:02,2026-09-08,C,Line 2,CPK-2,Case packer faults,3,glue fault
+2026-09-09 02:30,2026-09-08,C,Line 2,CPK-2,Case packer faults,36,case packer jam
+2026-09-09 02:45,2026-09-08,C,Line 3,LAB-3,Labeler jams,4,web break
+2026-09-09 07:00,2026-09-09,A,Line 3,CAP-3,Capper faults,8,missing caps
+2026-09-09 09:01,2026-09-09,A,Line 2,FIL-2,Filler faults,9,filler nozzle dripping
+2026-09-09 09:02,2026-09-09,A,Line 2,CPK-2,Case packer faults,8,"case packer stopped, flaps"
+2026-09-09 11:50,2026-09-09,A,Line 2,CNV-2,Conveyor,7,jam at transfer
+2026-09-09 14:02,2026-09-09,B,Line 1,,Changeovers,39,changeover AC-1000-LEM to AC-1000
+2026-09-09 14:22,2026-09-09,B,Line 2,CNV-2,Conveyor,37,conveyor backup
+2026-09-09 16:33,2026-09-09,B,Line 1,FIL-1,Filler faults,23,fill valve sticking
+2026-09-09 16:43,2026-09-09,B,Line 1,CPK-1,Case packer faults,8,no case erected
+2026-09-09 17:16,2026-09-09,B,Line 3,CNV-3,Conveyor,12,bottles down on conveyor
+2026-09-09 19:34,2026-09-09,B,Line 2,LAB-2,Labeler jams,7,labels skewed
+2026-09-09 23:57,2026-09-09,C,Line 3,CPK-3,Case packer faults,25,case packer jam
+2026-09-10 03:31,2026-09-09,C,Line 2,CPK-2,Case packer faults,6,glue fault
+2026-09-10 06:02,2026-09-10,A,Line 1,,Changeovers,32,changeover AC-1000 to AC-1000-LEM
+2026-09-10 06:02,2026-09-10,A,Line 2,,Changeovers,44,changeover FS-0500 to FS-2000
+2026-09-10 06:02,2026-09-10,A,Line 3,,Changeovers,35,changeover DS-0750-ECO to DS-0750
+2026-09-10 06:31,2026-09-10,A,Line 2,CAP-2,Capper faults,27,capper torque fault
+2026-09-10 06:32,2026-09-10,A,Line 1,CPK-1,Case packer faults,19,vacuum low
+2026-09-10 10:04,2026-09-10,A,Line 3,CPK-3,Case packer faults,9,glue fault
+2026-09-10 10:50,2026-09-10,A,Line 1,CNV-1,Conveyor,15,guide rail loose
+2026-09-10 10:58,2026-09-10,A,Line 1,FIL-1,Filler faults,13,"filler e-stop, reset"
+2026-09-10 12:31,2026-09-10,A,Line 3,CAP-3,Capper faults,4,capper torque fault
+2026-09-10 14:02,2026-09-10,B,Line 1,,Changeovers,24,changeover AC-1000-LEM to AC-1000
+2026-09-10 14:02,2026-09-10,B,Line 2,,Changeovers,75,changeover FS-2000 to FS-0500
+2026-09-10 14:02,2026-09-10,B,Line 3,,Changeovers,32,changeover DS-0750 to DS-0750-ECO
+2026-09-10 15:56,2026-09-10,B,Line 2,,Other,6,power blip
+2026-09-10 16:09,2026-09-10,B,Line 1,LAB-1,Labeler jams,11,web break
+2026-09-10 17:37,2026-09-10,B,Line 1,FIL-1,Filler faults,6,bowl level alarm
+2026-09-10 22:24,2026-09-10,C,Line 2,CPK-2,Case packer faults,16,no case erected
+2026-09-11 07:31,2026-09-11,A,Line 2,CPK-2,Case packer faults,7,glue fault
+2026-09-11 09:29,2026-09-11,A,Line 3,CNV-3,Conveyor,8,bottles down on conveyor
+2026-09-11 09:39,2026-09-11,A,Line 1,FIL-1,Filler faults,8,filler nozzle dripping
+2026-09-11 10:39,2026-09-11,A,Line 2,FIL-2,Filler faults,19,"filler e-stop, reset"
+2026-09-11 14:02,2026-09-11,B,Line 3,,Changeovers,38,changeover DS-0750-ECO to DS-0750
+2026-09-11 15:54,2026-09-11,B,Line 3,CPK-3,Case packer faults,19,case packer jam
+2026-09-11 15:58,2026-09-11,B,Line 1,,Material short,65,no caps
+2026-09-11 18:52,2026-09-11,B,Line 1,FIL-1,Filler faults,11,nozzle 7 not filling
+2026-09-11 20:08,2026-09-11,B,Line 3,CNV-3,Conveyor,8,conveyor backup
+2026-09-11 22:42,2026-09-11,C,Line 1,CNV-1,Conveyor,12,guide rail loose
+2026-09-12 03:36,2026-09-11,C,Line 3,FIL-3,Filler faults,32,nozzle 7 not filling
+2026-09-12 04:28,2026-09-11,C,Line 2,FIL-2,Filler faults,22,bowl level alarm
+2026-09-12 04:40,2026-09-11,C,Line 3,,Other,24,operator break coverage
+2026-09-14 08:49,2026-09-14,A,Line 3,,Waiting on maintenance,30,waiting on electrician
+2026-09-14 12:49,2026-09-14,A,Line 3,CAP-3,Capper faults,16,capper torque fault
+2026-09-14 14:02,2026-09-14,B,Line 2,,Changeovers,43,changeover FS-0500 to FS-2000
+2026-09-14 14:02,2026-09-14,B,Line 3,,Changeovers,27,changeover DS-0750 to DS-0750-ECO
+2026-09-14 16:47,2026-09-14,B,Line 3,FIL-3,Filler faults,25,fill valve sticking
+2026-09-15 02:16,2026-09-14,C,Line 1,,Other,15,forklift blocking line
+2026-09-15 04:44,2026-09-14,C,Line 2,CNV-2,Conveyor,9,jam at transfer
+2026-09-15 05:01,2026-09-14,C,Line 2,CAP-2,Capper faults,9,capper torque fault
+2026-09-15 05:01,2026-09-14,C,Line 3,FIL-3,Filler faults,13,"filler e-stop, reset"
+2026-09-15 06:18,2026-09-15,A,Line 3,CPK-3,Case packer faults,11,no case erected
+2026-09-15 08:18,2026-09-15,A,Line 3,FIL-3,Filler faults,10,filler nozzle dripping
+2026-09-15 10:27,2026-09-15,A,Line 2,CAP-2,Capper faults,8,missing caps
+2026-09-15 10:41,2026-09-15,A,Line 2,CAP-2,Capper faults,5,missing caps
+2026-09-15 12:07,2026-09-15,A,Line 3,CPK-3,Case packer faults,6,glue fault
+2026-09-15 12:48,2026-09-15,A,Line 1,FIL-1,Filler faults,15,filler nozzle dripping
+2026-09-15 14:02,2026-09-15,B,Line 1,,Changeovers,35,changeover AC-1000 to AC-1000-LEM
+2026-09-15 15:16,2026-09-15,B,Line 2,FIL-2,Filler faults,30,filler nozzle dripping
+2026-09-15 17:44,2026-09-15,B,Line 2,,Other,34,cleaning spill
+2026-09-15 18:02,2026-09-15,B,Line 2,CAP-2,Capper faults,38,caps cross threading
+2026-09-15 18:08,2026-09-15,B,Line 3,,Waiting on maintenance,23,waiting on mechanic
+2026-09-15 18:46,2026-09-15,B,Line 2,FIL-2,Filler faults,4,"filler stopped, low product"
+2026-09-15 19:39,2026-09-15,B,Line 1,FIL-1,Filler faults,20,nozzle 7 not filling
+2026-09-15 22:02,2026-09-15,C,Line 1,,Changeovers,37,changeover AC-1000-LEM to AC-1000
+2026-09-15 22:02,2026-09-15,C,Line 3,,Changeovers,35,changeover DS-0750-ECO to DS-0750
+2026-09-16 00:29,2026-09-15,C,Line 1,FIL-1,Filler faults,29,"filler stopped, low product"
+2026-09-16 00:39,2026-09-15,C,Line 1,CNV-1,Conveyor,5,conveyor backup
+2026-09-16 04:51,2026-09-15,C,Line 3,FIL-3,Filler faults,11,filler nozzle dripping
+2026-09-16 09:11,2026-09-16,A,Line 1,CAP-1,Capper faults,24,capper torque fault
+2026-09-16 11:25,2026-09-16,A,Line 1,FIL-1,Filler faults,5,fill valve sticking
+2026-09-16 14:15,2026-09-16,B,Line 2,,Other,21,waiting on QA release
+2026-09-16 16:38,2026-09-16,B,Line 1,CPK-1,Case packer faults,24,no case erected
+2026-09-16 17:24,2026-09-16,B,Line 3,CNV-3,Conveyor,16,guide rail loose
+2026-09-16 18:36,2026-09-16,B,Line 3,CNV-3,Conveyor,20,conveyor backup
+2026-09-16 19:10,2026-09-16,B,Line 1,CPK-1,Case packer faults,9,vacuum low
+2026-09-16 19:22,2026-09-16,B,Line 3,CNV-3,Conveyor,8,bottles down on conveyor
+2026-09-16 22:02,2026-09-16,C,Line 3,,Changeovers,30,changeover DS-0750 to DS-0750-ECO
+2026-09-16 23:29,2026-09-16,C,Line 2,CNV-2,Conveyor,12,conveyor backup
+2026-09-17 02:58,2026-09-16,C,Line 2,CAP-2,Capper faults,19,capper torque fault
+2026-09-17 03:20,2026-09-16,C,Line 1,CAP-1,Capper faults,17,missing caps
+2026-09-17 03:52,2026-09-16,C,Line 2,CAP-2,Capper faults,5,cap chute jam
+2026-09-17 06:46,2026-09-17,A,Line 3,CPK-3,Case packer faults,29,vacuum low
+2026-09-17 08:09,2026-09-17,A,Line 1,CAP-1,Capper faults,11,missing caps
+2026-09-17 12:03,2026-09-17,A,Line 2,CNV-2,Conveyor,10,jam at transfer
+2026-09-17 12:29,2026-09-17,A,Line 2,CAP-2,Capper faults,28,caps cross threading
+2026-09-17 12:56,2026-09-17,A,Line 2,CNV-2,Conveyor,3,guide rail loose
+2026-09-17 14:02,2026-09-17,B,Line 1,,Changeovers,29,changeover AC-1000 to AC-1000-LEM
+2026-09-17 16:12,2026-09-17,B,Line 3,CAP-3,Capper faults,10,caps cross threading
+2026-09-17 16:17,2026-09-17,B,Line 2,FIL-2,Filler faults,19,nozzle 7 not filling
+2026-09-17 17:22,2026-09-17,B,Line 1,LAB-1,Labeler jams,7,label jam
+2026-09-17 17:36,2026-09-17,B,Line 2,CAP-2,Capper faults,21,caps cross threading
+2026-09-17 18:19,2026-09-17,B,Line 2,CNV-2,Conveyor,22,bottles down on conveyor
+2026-09-17 22:02,2026-09-17,C,Line 1,,Changeovers,29,changeover AC-1000-LEM to AC-1000
+2026-09-17 22:40,2026-09-17,C,Line 3,CPK-3,Case packer faults,23,vacuum low
+2026-09-18 02:53,2026-09-17,C,Line 2,LAB-2,Labeler jams,8,labels skewed
+2026-09-18 02:58,2026-09-17,C,Line 3,,Other,30,waiting on QA release
+2026-09-18 04:06,2026-09-17,C,Line 3,FIL-3,Filler faults,13,"filler e-stop, reset"
+2026-09-18 06:02,2026-09-18,A,Line 1,,Changeovers,25,changeover AC-1000 to AC-1000-LEM
+2026-09-18 06:02,2026-09-18,A,Line 3,,Changeovers,32,changeover DS-0750-ECO to DS-0750
+2026-09-18 06:17,2026-09-18,A,Line 2,CAP-2,Capper faults,14,capper head 3 slipping
+2026-09-18 06:36,2026-09-18,A,Line 1,CPK-1,Case packer faults,9,glue fault
+2026-09-18 09:58,2026-09-18,A,Line 3,CAP-3,Capper faults,11,cap chute jam
+2026-09-18 10:12,2026-09-18,A,Line 1,CNV-1,Conveyor,13,guide rail loose
+2026-09-18 11:57,2026-09-18,A,Line 1,CAP-1,Capper faults,15,caps cross threading
+2026-09-18 14:10,2026-09-18,B,Line 1,CAP-1,Capper faults,6,missing caps
+2026-09-18 14:22,2026-09-18,B,Line 1,CPK-1,Case packer faults,14,no case erected
+2026-09-18 15:09,2026-09-18,B,Line 2,FIL-2,Filler faults,14,"filler stopped, low product"
+2026-09-18 15:14,2026-09-18,B,Line 1,FIL-1,Filler faults,23,"filler stopped, low product"
+2026-09-18 15:49,2026-09-18,B,Line 3,LAB-3,Labeler jams,9,labels skewed
+2026-09-18 18:11,2026-09-18,B,Line 1,FIL-1,Filler faults,19,"filler e-stop, reset"
+2026-09-18 22:12,2026-09-18,C,Line 3,FIL-3,Filler faults,11,"filler stopped, low product"
+2026-09-18 23:32,2026-09-18,C,Line 2,,Material short,69,out of corrugate
+2026-09-19 01:27,2026-09-18,C,Line 3,CPK-3,Case packer faults,7,glue fault
+2026-09-19 04:50,2026-09-18,C,Line 1,,Other,10,forklift blocking line
+2026-09-19 06:02,2026-09-19,A,Line 2,,Changeovers,66,changeover FS-2000 to FS-0500
+2026-09-21 08:36,2026-09-21,A,Line 3,,Other,16,power blip
+2026-09-21 10:37,2026-09-21,A,Line 2,LAB-2,Labeler jams,6,label jam
+2026-09-21 12:25,2026-09-21,A,Line 3,LAB-3,Labeler jams,12,label sensor fault
+2026-09-21 15:16,2026-09-21,B,Line 1,FIL-1,Filler faults,21,"filler e-stop, reset"
+2026-09-21 17:04,2026-09-21,B,Line 1,CAP-1,Capper faults,10,caps cross threading
+2026-09-21 17:38,2026-09-21,B,Line 2,CPK-2,Case packer faults,30,no case erected
+2026-09-21 17:56,2026-09-21,B,Line 3,CAP-3,Capper faults,8,caps cross threading
+2026-09-21 22:26,2026-09-21,C,Line 1,CPK-1,Case packer faults,9,no case erected
+2026-09-21 23:07,2026-09-21,C,Line 2,CPK-2,Case packer faults,27,no case erected
+2026-09-21 23:44,2026-09-21,C,Line 1,,Material short,56,no labels at line
+2026-09-22 02:10,2026-09-21,C,Line 2,CPK-2,Case packer faults,146,no vacuum on case packer
+2026-09-22 02:25,2026-09-21,C,Line 3,CNV-3,Conveyor,7,guide rail loose
+2026-09-22 02:40,2026-09-21,C,Line 1,CPK-1,Case packer faults,15,glue fault
+2026-09-22 03:01,2026-09-21,C,Line 3,CNV-3,Conveyor,10,bottles down on conveyor
+2026-09-22 04:36,2026-09-21,C,Line 2,CPK-2,Waiting on maintenance,55,waiting on bearing from vendor
+2026-09-22 06:02,2026-09-22,A,Line 3,,Changeovers,34,changeover DS-0750 to DS-0750-ECO
+2026-09-22 07:43,2026-09-22,A,Line 3,CNV-3,Conveyor,9,conveyor backup
+2026-09-22 09:07,2026-09-22,A,Line 3,CAP-3,Capper faults,15,capper torque fault
+2026-09-22 09:10,2026-09-22,A,Line 3,FIL-3,Filler faults,9,bowl level alarm
+2026-09-22 11:37,2026-09-22,A,Line 1,FIL-1,Filler faults,16,"filler stopped, low product"
+2026-09-22 12:29,2026-09-22,A,Line 1,CNV-1,Conveyor,34,bottles down on conveyor
+2026-09-22 18:32,2026-09-22,B,Line 3,,Other,8,waiting on QA release
+2026-09-22 22:02,2026-09-22,C,Line 1,,Changeovers,34,changeover AC-1000-LEM to AC-1000
+2026-09-23 01:53,2026-09-22,C,Line 3,FIL-3,Filler faults,17,filler nozzle dripping
+2026-09-23 03:01,2026-09-22,C,Line 2,CPK-2,Case packer faults,10,glue fault
+2026-09-23 03:10,2026-09-22,C,Line 1,LAB-1,Labeler jams,14,web break
+2026-09-23 06:02,2026-09-23,A,Line 1,,Changeovers,31,changeover AC-1000 to AC-1000-LEM
+2026-09-23 06:02,2026-09-23,A,Line 2,,Changeovers,40,changeover FS-0500 to FS-2000
+2026-09-23 07:49,2026-09-23,A,Line 3,CAP-3,Capper faults,5,capper head 3 slipping
+2026-09-23 10:17,2026-09-23,A,Line 3,FIL-3,Filler faults,45,nozzle 7 not filling
+2026-09-23 14:02,2026-09-23,B,Line 1,,Changeovers,36,changeover AC-1000-LEM to AC-1000
+2026-09-23 17:13,2026-09-23,B,Line 2,,Other,13,power blip
+2026-09-23 17:26,2026-09-23,B,Line 2,LAB-2,Labeler jams,9,labels skewed
+2026-09-23 20:22,2026-09-23,B,Line 3,LAB-3,Labeler jams,13,labels skewed
+2026-09-23 22:02,2026-09-23,C,Line 2,,Changeovers,68,changeover FS-2000 to FS-0500
+2026-09-24 00:23,2026-09-23,C,Line 1,CNV-1,Conveyor,10,bottles down on conveyor
+2026-09-24 01:08,2026-09-23,C,Line 2,CNV-2,Conveyor,7,guide rail loose
+2026-09-24 01:16,2026-09-23,C,Line 3,CNV-3,Conveyor,8,conveyor backup
+2026-09-24 03:44,2026-09-23,C,Line 3,CAP-3,Capper faults,18,cap chute jam
+2026-09-24 07:34,2026-09-24,A,Line 3,CAP-3,Capper faults,8,cap chute jam
+2026-09-24 11:57,2026-09-24,A,Line 1,CPK-1,Case packer faults,4,"case packer stopped, flaps"
+2026-09-24 12:33,2026-09-24,A,Line 3,LAB-3,Labeler jams,43,web break
+2026-09-24 14:02,2026-09-24,B,Line 1,,Changeovers,28,changeover AC-1000 to AC-1000-LEM
+2026-09-24 19:08,2026-09-24,B,Line 3,FIL-3,Filler faults,12,"filler e-stop, reset"
+2026-09-24 19:38,2026-09-24,B,Line 1,FIL-1,Filler faults,15,nozzle 7 not filling
+2026-09-24 20:04,2026-09-24,B,Line 2,,Waiting on maintenance,34,waiting on electrician
+2026-09-25 06:11,2026-09-25,A,Line 2,CAP-2,Capper faults,16,caps cross threading
+2026-09-25 10:21,2026-09-25,A,Line 2,FIL-2,Filler faults,15,filler nozzle dripping
+2026-09-25 14:02,2026-09-25,B,Line 3,,Changeovers,35,changeover DS-0750-ECO to DS-0750
+2026-09-25 15:21,2026-09-25,B,Line 3,,Other,19,forklift blocking line
+2026-09-25 16:35,2026-09-25,B,Line 1,LAB-1,Labeler jams,6,labels not applying
+2026-09-25 17:22,2026-09-25,B,Line 2,LAB-2,Labeler jams,14,labels not applying
+2026-09-25 17:49,2026-09-25,B,Line 2,CAP-2,Capper faults,14,capper torque fault
+2026-09-25 19:38,2026-09-25,B,Line 2,FIL-2,Filler faults,8,fill valve sticking
+2026-09-25 20:40,2026-09-25,B,Line 2,CNV-2,Conveyor,13,conveyor backup
+2026-09-25 23:41,2026-09-25,C,Line 2,CAP-2,Capper faults,12,capper torque fault
+2026-09-26 00:00,2026-09-25,C,Line 3,CAP-3,Capper faults,8,caps cross threading
+2026-09-26 01:44,2026-09-25,C,Line 3,FIL-3,Filler faults,8,bowl level alarm
+2026-09-26 03:21,2026-09-25,C,Line 3,FIL-3,Filler faults,19,nozzle 7 not filling
+2026-09-28 07:04,2026-09-28,A,Line 3,LAB-3,Labeler jams,27,web break
+2026-09-28 15:04,2026-09-28,B,Line 2,CPK-2,Case packer faults,42,case packer jam
+2026-09-28 15:15,2026-09-28,B,Line 1,CAP-1,Capper faults,14,caps cross threading
+2026-09-28 15:19,2026-09-28,B,Line 1,FIL-1,Filler faults,34,"filler stopped, low product"
+2026-09-28 15:21,2026-09-28,B,Line 2,CPK-2,Case packer faults,11,no case erected
+2026-09-28 18:53,2026-09-28,B,Line 3,,Other,30,waiting on QA release
+2026-09-28 21:02,2026-09-28,B,Line 2,CAP-2,Capper faults,18,capper torque fault
+2026-09-28 22:02,2026-09-28,C,Line 1,,Changeovers,42,changeover AC-1000-LEM to AC-1000
+2026-09-28 23:53,2026-09-28,C,Line 1,CPK-1,Case packer faults,4,glue fault
+2026-09-29 01:18,2026-09-28,C,Line 3,LAB-3,Labeler jams,7,label sensor fault
+2026-09-29 03:06,2026-09-28,C,Line 3,FIL-3,Filler faults,5,bowl level alarm
+2026-09-29 04:31,2026-09-28,C,Line 1,CPK-1,Case packer faults,18,vacuum low
+2026-09-29 06:02,2026-09-29,A,Line 1,,Changeovers,36,changeover AC-1000 to AC-1000-LEM
+2026-09-29 07:39,2026-09-29,A,Line 2,CPK-2,Case packer faults,5,case packer jam
+2026-09-29 08:51,2026-09-29,A,Line 1,FIL-1,Filler faults,7,bowl level alarm
+2026-09-29 14:02,2026-09-29,B,Line 3,,Changeovers,29,changeover DS-0750 to DS-0750-ECO
+2026-09-29 14:11,2026-09-29,B,Line 2,CNV-2,Conveyor,9,bottles down on conveyor
+2026-09-29 20:13,2026-09-29,B,Line 1,FIL-1,Filler faults,18,bowl level alarm
+2026-09-29 20:25,2026-09-29,B,Line 2,,Waiting on maintenance,28,waiting on mechanic
+2026-09-29 20:46,2026-09-29,B,Line 2,CAP-2,Capper faults,12,missing caps
+2026-09-29 22:02,2026-09-29,C,Line 1,,Changeovers,23,changeover AC-1000-LEM to AC-1000
+2026-09-29 22:02,2026-09-29,C,Line 3,,Changeovers,36,changeover DS-0750-ECO to DS-0750
+2026-09-29 22:26,2026-09-29,C,Line 1,FIL-1,Filler faults,19,"filler e-stop, reset"
+2026-09-30 00:26,2026-09-29,C,Line 3,,Other,16,cleaning spill
+2026-09-30 00:30,2026-09-29,C,Line 3,CPK-3,Case packer faults,11,no case erected
+2026-09-30 03:00,2026-09-29,C,Line 2,CNV-2,Conveyor,18,jam at transfer
+2026-09-30 03:26,2026-09-29,C,Line 3,CPK-3,Case packer faults,12,case packer jam
+2026-09-30 03:33,2026-09-29,C,Line 2,CPK-2,Case packer faults,25,no case erected
+2026-09-30 06:02,2026-09-30,A,Line 2,,Changeovers,41,changeover FS-0500 to FS-2000
+2026-09-30 07:20,2026-09-30,A,Line 2,LAB-2,Labeler jams,22,labels skewed
+2026-09-30 08:35,2026-09-30,A,Line 3,CAP-3,Capper faults,21,capper torque fault
+2026-09-30 09:20,2026-09-30,A,Line 3,FIL-3,Filler faults,25,filler nozzle dripping
+2026-09-30 09:24,2026-09-30,A,Line 1,,Other,34,waiting on QA release
+2026-09-30 10:53,2026-09-30,A,Line 1,CNV-1,Conveyor,11,conveyor backup
+2026-09-30 15:58,2026-09-30,B,Line 3,,Waiting on maintenance,29,waiting on electrician
+2026-09-30 16:55,2026-09-30,B,Line 2,FIL-2,Filler faults,16,"filler stopped, low product"
+2026-09-30 19:40,2026-09-30,B,Line 2,CAP-2,Capper faults,12,capper head 3 slipping
+2026-09-30 22:46,2026-09-30,C,Line 2,FIL-2,Filler faults,17,nozzle 7 not filling
+2026-10-01 06:02,2026-10-01,A,Line 2,,Changeovers,79,changeover FS-2000 to FS-0500
+2026-10-01 06:31,2026-10-01,A,Line 3,CNV-3,Conveyor,36,bottles down on conveyor
+2026-10-01 06:44,2026-10-01,A,Line 2,,Other,14,operator break coverage
+2026-10-01 07:25,2026-10-01,A,Line 1,CNV-1,Conveyor,8,bottles down on conveyor
+2026-10-01 10:03,2026-10-01,A,Line 3,,Waiting on maintenance,21,waiting on electrician
+2026-10-01 12:31,2026-10-01,A,Line 2,FIL-2,Filler faults,21,nozzle 7 not filling
+2026-10-01 13:07,2026-10-01,A,Line 3,CPK-3,Case packer faults,7,vacuum low
+2026-10-01 14:02,2026-10-01,B,Line 3,,Changeovers,28,changeover DS-0750 to DS-0750-ECO
+2026-10-01 16:59,2026-10-01,B,Line 2,,Other,20,operator break coverage
+2026-10-01 18:30,2026-10-01,B,Line 1,FIL-1,Filler faults,10,nozzle 7 not filling
+2026-10-01 20:00,2026-10-01,B,Line 3,CNV-3,Conveyor,13,bottles down on conveyor
+2026-10-01 20:50,2026-10-01,B,Line 1,CAP-1,Capper faults,6,capper torque fault
+2026-10-02 08:08,2026-10-02,A,Line 2,CAP-2,Capper faults,8,cap chute jam
+2026-10-02 10:59,2026-10-02,A,Line 1,CPK-1,Case packer faults,15,no case erected
+2026-10-02 14:55,2026-10-02,B,Line 3,CAP-3,Capper faults,24,caps cross threading
+2026-10-02 15:12,2026-10-02,B,Line 3,,Waiting on maintenance,27,waiting on electrician
+2026-10-02 15:55,2026-10-02,B,Line 3,,Material short,65,no labels at line
+2026-10-02 17:22,2026-10-02,B,Line 2,FIL-2,Filler faults,13,"filler stopped, low product"
+2026-10-02 17:32,2026-10-02,B,Line 3,,Other,26,operator break coverage
+2026-10-02 23:14,2026-10-02,C,Line 1,CNV-1,Conveyor,22,jam at transfer
+2026-10-03 00:05,2026-10-02,C,Line 3,FIL-3,Filler faults,19,bowl level alarm
+2026-10-03 01:31,2026-10-02,C,Line 2,,Other,6,cleaning spill
+2026-10-05 06:59,2026-10-05,A,Line 1,FIL-1,Filler faults,21,nozzle 7 not filling
+2026-10-05 10:17,2026-10-05,A,Line 1,LAB-1,Labeler jams,20,web break
+2026-10-05 11:01,2026-10-05,A,Line 3,CPK-3,Case packer faults,9,case packer jam
+2026-10-05 11:05,2026-10-05,A,Line 1,FIL-1,Filler faults,16,fill valve sticking
+2026-10-05 11:44,2026-10-05,A,Line 2,,Other,10,waiting on QA release
+2026-10-05 14:14,2026-10-05,B,Line 3,FIL-3,Filler faults,18,"filler e-stop, reset"
+2026-10-05 17:12,2026-10-05,B,Line 1,,Other,23,forklift blocking line
+2026-10-05 17:16,2026-10-05,B,Line 3,CNV-3,Conveyor,34,conveyor backup
+2026-10-05 22:17,2026-10-05,C,Line 2,,Waiting on maintenance,22,tech on other job
+2026-10-05 23:32,2026-10-05,C,Line 1,CAP-1,Capper faults,13,capper head 3 slipping
+2026-10-06 03:08,2026-10-05,C,Line 3,LAB-3,Labeler jams,14,labels not applying
+2026-10-06 06:37,2026-10-06,A,Line 2,CPK-2,Case packer faults,33,vacuum low
+2026-10-06 06:48,2026-10-06,A,Line 1,CAP-1,Capper faults,5,cap chute jam
+2026-10-06 09:14,2026-10-06,A,Line 3,CPK-3,Case packer faults,9,"case packer stopped, flaps"
+2026-10-06 09:42,2026-10-06,A,Line 2,LAB-2,Labeler jams,28,web break
+2026-10-06 12:52,2026-10-06,A,Line 1,CAP-1,Capper faults,13,caps cross threading
+2026-10-06 14:02,2026-10-06,B,Line 1,,Changeovers,33,changeover AC-1000 to AC-1000-LEM
+2026-10-06 14:02,2026-10-06,B,Line 2,,Changeovers,52,changeover FS-0500 to FS-2000
+2026-10-06 15:47,2026-10-06,B,Line 1,CNV-1,Conveyor,11,conveyor backup
+2026-10-06 19:52,2026-10-06,B,Line 3,CAP-3,Capper faults,8,caps cross threading
+2026-10-06 19:59,2026-10-06,B,Line 3,LAB-3,Labeler jams,7,labels not applying
+2026-10-06 22:31,2026-10-06,C,Line 2,CAP-2,Capper faults,9,cap chute jam
+2026-10-06 23:43,2026-10-06,C,Line 1,CPK-1,Case packer faults,5,"case packer stopped, flaps"
+2026-10-07 00:46,2026-10-06,C,Line 3,,Other,34,cleaning spill
+2026-10-07 02:27,2026-10-06,C,Line 2,,Other,10,forklift blocking line
+2026-10-07 03:18,2026-10-06,C,Line 1,CPK-1,Case packer faults,26,vacuum low
+2026-10-07 07:50,2026-10-07,A,Line 3,CNV-3,Conveyor,6,conveyor backup
+2026-10-07 09:19,2026-10-07,A,Line 3,CPK-3,Case packer faults,12,vacuum low
+2026-10-07 12:10,2026-10-07,A,Line 2,CAP-2,Capper faults,10,capper torque fault
+2026-10-07 14:02,2026-10-07,B,Line 2,,Changeovers,65,changeover FS-2000 to FS-0500
+2026-10-07 14:21,2026-10-07,B,Line 2,CPK-2,Case packer faults,5,vacuum low
+2026-10-07 15:40,2026-10-07,B,Line 1,FIL-1,Filler faults,29,filler nozzle dripping
+2026-10-07 22:02,2026-10-07,C,Line 3,,Changeovers,32,changeover DS-0750-ECO to DS-0750
+2026-10-07 23:37,2026-10-07,C,Line 3,,Other,21,waiting on QA release
+2026-10-08 06:02,2026-10-08,A,Line 1,,Changeovers,37,changeover AC-1000-LEM to AC-1000
+2026-10-08 06:37,2026-10-08,A,Line 2,FIL-2,Filler faults,16,bowl level alarm
+2026-10-08 07:02,2026-10-08,A,Line 2,CAP-2,Capper faults,17,capper torque fault
+2026-10-08 08:42,2026-10-08,A,Line 1,CAP-1,Capper faults,22,cap chute jam
+2026-10-08 10:51,2026-10-08,A,Line 1,CAP-1,Capper faults,12,missing caps
+2026-10-08 13:06,2026-10-08,A,Line 2,FIL-2,Filler faults,5,"filler e-stop, reset"
+2026-10-08 17:32,2026-10-08,B,Line 1,LAB-1,Labeler jams,4,web break
+2026-10-08 18:02,2026-10-08,B,Line 1,FIL-1,Filler faults,14,nozzle 7 not filling
+2026-10-08 22:02,2026-10-08,C,Line 2,,Changeovers,44,changeover FS-0500 to FS-2000
+2026-10-08 23:18,2026-10-08,C,Line 1,CNV-1,Conveyor,29,jam at transfer
+2026-10-09 03:08,2026-10-08,C,Line 3,LAB-3,Labeler jams,13,label sensor fault
+2026-10-09 06:02,2026-10-09,A,Line 1,,Changeovers,34,changeover AC-1000 to AC-1000-LEM
+2026-10-09 06:02,2026-10-09,A,Line 3,,Changeovers,31,changeover DS-0750 to DS-0750-ECO
+2026-10-09 09:29,2026-10-09,A,Line 3,CPK-3,Case packer faults,11,case packer jam
+2026-10-09 09:50,2026-10-09,A,Line 1,FIL-1,Filler faults,20,fill valve sticking
+2026-10-09 12:31,2026-10-09,A,Line 1,CPK-1,Case packer faults,18,vacuum low
+2026-10-09 14:02,2026-10-09,B,Line 1,,Changeovers,35,changeover AC-1000-LEM to AC-1000
+2026-10-09 14:21,2026-10-09,B,Line 3,LAB-3,Labeler jams,31,label sensor fault
+2026-10-09 17:17,2026-10-09,B,Line 2,LAB-2,Labeler jams,9,label jam
+2026-10-09 20:14,2026-10-09,B,Line 1,FIL-1,Filler faults,19,"filler e-stop, reset"
+2026-10-09 22:02,2026-10-09,C,Line 3,,Changeovers,37,changeover DS-0750-ECO to DS-0750
+2026-10-10 00:52,2026-10-09,C,Line 1,CAP-1,Capper faults,10,capper torque fault
+2026-10-10 01:04,2026-10-09,C,Line 2,LAB-2,Labeler jams,18,label sensor fault
+2026-10-10 02:18,2026-10-09,C,Line 3,LAB-3,Labeler jams,9,web break
+2026-10-10 03:15,2026-10-09,C,Line 1,CNV-1,Conveyor,10,jam at transfer
+2026-10-10 03:33,2026-10-09,C,Line 2,CAP-2,Capper faults,13,missing caps
+2026-10-12 08:35,2026-10-12,A,Line 1,,Other,9,forklift blocking line
+2026-10-12 09:52,2026-10-12,A,Line 1,,Waiting on maintenance,39,waiting on mechanic
+2026-10-12 11:20,2026-10-12,A,Line 1,,Other,8,operator break coverage
+2026-10-12 14:02,2026-10-12,B,Line 1,,Changeovers,32,changeover AC-1000 to AC-1000-LEM
+2026-10-12 14:02,2026-10-12,B,Line 3,,Changeovers,29,changeover DS-0750 to DS-0750-ECO
+2026-10-12 16:17,2026-10-12,B,Line 1,CAP-1,Capper faults,17,missing caps
+2026-10-12 20:53,2026-10-12,B,Line 1,CAP-1,Capper faults,15,capper torque fault
+2026-10-12 22:02,2026-10-12,C,Line 2,,Changeovers,84,changeover FS-2000 to FS-0500
+2026-10-13 02:54,2026-10-12,C,Line 3,,Waiting on maintenance,35,waiting on mechanic
+2026-10-13 08:19,2026-10-13,A,Line 3,FIL-3,Filler faults,9,"filler stopped, low product"
+2026-10-13 09:25,2026-10-13,A,Line 2,CPK-2,Case packer faults,117,vacuum pump tripped
+2026-10-13 11:22,2026-10-13,A,Line 2,CPK-2,Waiting on maintenance,35,waiting on bearing from vendor
+2026-10-13 16:45,2026-10-13,B,Line 2,CPK-2,Case packer faults,7,"case packer stopped, flaps"
+2026-10-13 17:40,2026-10-13,B,Line 2,CAP-2,Capper faults,8,capper torque fault
+2026-10-13 18:07,2026-10-13,B,Line 1,LAB-1,Labeler jams,11,label sensor fault
+2026-10-13 18:21,2026-10-13,B,Line 3,CNV-3,Conveyor,12,bottles down on conveyor
+2026-10-13 18:27,2026-10-13,B,Line 3,CAP-3,Capper faults,27,capper head 3 slipping
+2026-10-13 18:46,2026-10-13,B,Line 2,CPK-2,Case packer faults,25,no case erected
+2026-10-13 18:55,2026-10-13,B,Line 3,CPK-3,Case packer faults,8,no case erected
+2026-10-13 19:57,2026-10-13,B,Line 1,FIL-1,Filler faults,21,bowl level alarm
+2026-10-13 20:31,2026-10-13,B,Line 3,CPK-3,Case packer faults,11,vacuum low
+2026-10-13 22:02,2026-10-13,C,Line 1,,Changeovers,32,changeover AC-1000-LEM to AC-1000
+2026-10-13 22:02,2026-10-13,C,Line 2,,Changeovers,39,changeover FS-0500 to FS-2000
+2026-10-13 22:02,2026-10-13,C,Line 3,,Changeovers,29,changeover DS-0750-ECO to DS-0750
+2026-10-13 22:12,2026-10-13,C,Line 2,CAP-2,Capper faults,10,capper torque fault
+2026-10-13 22:27,2026-10-13,C,Line 3,,Other,8,forklift blocking line
+2026-10-13 23:36,2026-10-13,C,Line 1,LAB-1,Labeler jams,4,label jam
+2026-10-13 23:45,2026-10-13,C,Line 1,,Other,12,power blip
+2026-10-14 03:59,2026-10-13,C,Line 3,CAP-3,Capper faults,13,missing caps
+2026-10-14 05:08,2026-10-13,C,Line 1,CPK-1,Case packer faults,11,glue fault
+2026-10-14 07:27,2026-10-14,A,Line 2,FIL-2,Filler faults,25,bowl level alarm
+2026-10-14 08:56,2026-10-14,A,Line 1,LAB-1,Labeler jams,14,web break
+2026-10-14 14:10,2026-10-14,B,Line 2,CNV-2,Conveyor,18,jam at transfer
+2026-10-14 17:39,2026-10-14,B,Line 2,CAP-2,Capper faults,10,caps cross threading
+2026-10-14 18:43,2026-10-14,B,Line 3,,Other,6,cleaning spill
+2026-10-14 18:52,2026-10-14,B,Line 1,FIL-1,Filler faults,20,bowl level alarm
+2026-10-14 19:10,2026-10-14,B,Line 1,CAP-1,Capper faults,12,capper head 3 slipping
+2026-10-14 20:26,2026-10-14,B,Line 3,CAP-3,Capper faults,11,missing caps
+2026-10-14 22:02,2026-10-14,C,Line 1,,Changeovers,29,changeover AC-1000 to AC-1000-LEM
+2026-10-14 23:43,2026-10-14,C,Line 1,CAP-1,Capper faults,19,capper head 3 slipping
+2026-10-15 00:05,2026-10-14,C,Line 2,LAB-2,Labeler jams,15,label sensor fault
+2026-10-15 00:43,2026-10-14,C,Line 2,CNV-2,Conveyor,20,jam at transfer
+2026-10-15 02:32,2026-10-14,C,Line 2,,Waiting on maintenance,33,waiting on electrician
+2026-10-15 06:11,2026-10-15,A,Line 1,LAB-1,Labeler jams,3,web break
+2026-10-15 08:08,2026-10-15,A,Line 1,CNV-1,Conveyor,12,bottles down on conveyor
+2026-10-15 10:38,2026-10-15,A,Line 1,FIL-1,Filler faults,18,filler nozzle dripping
+2026-10-15 11:27,2026-10-15,A,Line 2,CPK-2,Case packer faults,19,"case packer stopped, flaps"
+2026-10-15 14:32,2026-10-15,B,Line 2,LAB-2,Labeler jams,6,web break
+2026-10-15 22:02,2026-10-15,C,Line 3,,Changeovers,27,changeover DS-0750 to DS-0750-ECO
+2026-10-15 22:22,2026-10-15,C,Line 1,CAP-1,Capper faults,16,cap chute jam
+2026-10-15 22:56,2026-10-15,C,Line 2,FIL-2,Filler faults,20,"filler e-stop, reset"
+2026-10-15 23:07,2026-10-15,C,Line 3,FIL-3,Filler faults,20,bowl level alarm
+2026-10-16 00:07,2026-10-15,C,Line 2,FIL-2,Filler faults,5,bowl level alarm
+2026-10-16 04:29,2026-10-15,C,Line 3,FIL-3,Filler faults,8,nozzle 7 not filling
+2026-10-16 04:35,2026-10-15,C,Line 2,FIL-2,Filler faults,15,fill valve sticking
+2026-10-16 12:53,2026-10-16,A,Line 2,,Other,24,waiting on QA release
+2026-10-16 14:48,2026-10-16,B,Line 1,CPK-1,Case packer faults,13,"case packer stopped, flaps"
+2026-10-16 15:31,2026-10-16,B,Line 1,CAP-1,Capper faults,10,missing caps
+2026-10-16 15:50,2026-10-16,B,Line 1,CAP-1,Capper faults,10,missing caps
+2026-10-16 16:14,2026-10-16,B,Line 1,FIL-1,Filler faults,26,fill valve sticking
+2026-10-16 17:53,2026-10-16,B,Line 3,CPK-3,Case packer faults,12,no case erected
+2026-10-16 18:18,2026-10-16,B,Line 1,CAP-1,Capper faults,7,caps cross threading
+2026-10-16 18:41,2026-10-16,B,Line 3,CNV-3,Conveyor,10,guide rail loose
+2026-10-17 01:15,2026-10-16,C,Line 3,CAP-3,Capper faults,29,capper head 3 slipping
+2026-10-17 02:07,2026-10-16,C,Line 1,CNV-1,Conveyor,5,jam at transfer
+2026-10-17 09:03,2026-10-17,A,Line 2,LAB-2,Labeler jams,17,label sensor fault
+2026-10-17 15:50,2026-10-17,B,Line 2,CPK-2,Case packer faults,10,no case erected
+2026-10-17 18:22,2026-10-17,B,Line 2,CAP-2,Capper faults,3,caps cross threading
+2026-10-19 06:47,2026-10-19,A,Line 3,,Other,14,power blip
+2026-10-19 07:28,2026-10-19,A,Line 1,CPK-1,Case packer faults,19,case packer jam
+2026-10-19 08:47,2026-10-19,A,Line 3,LAB-3,Labeler jams,10,label jam
+2026-10-19 10:43,2026-10-19,A,Line 2,LAB-2,Labeler jams,5,web break
+2026-10-19 11:33,2026-10-19,A,Line 2,,Other,23,operator break coverage
+2026-10-19 12:05,2026-10-19,A,Line 1,FIL-1,Filler faults,17,bowl level alarm
+2026-10-19 12:34,2026-10-19,A,Line 3,,Other,20,cleaning spill
+2026-10-19 14:02,2026-10-19,B,Line 1,,Changeovers,23,changeover AC-1000-LEM to AC-1000
+2026-10-19 22:02,2026-10-19,C,Line 2,,Changeovers,81,changeover FS-2000 to FS-0500
+2026-10-19 23:40,2026-10-19,C,Line 2,LAB-2,Labeler jams,14,label jam
+2026-10-20 00:15,2026-10-19,C,Line 1,CNV-1,Conveyor,3,guide rail loose
+2026-10-20 01:07,2026-10-19,C,Line 2,CNV-2,Conveyor,6,guide rail loose
+2026-10-20 02:41,2026-10-19,C,Line 1,CAP-1,Capper faults,12,caps cross threading
+2026-10-20 02:46,2026-10-19,C,Line 2,FIL-2,Filler faults,17,nozzle 7 not filling
+2026-10-20 03:38,2026-10-19,C,Line 1,LAB-1,Labeler jams,6,labels skewed
+2026-10-20 06:22,2026-10-20,A,Line 3,CNV-3,Conveyor,9,bottles down on conveyor
+2026-10-20 08:16,2026-10-20,A,Line 3,LAB-3,Labeler jams,43,labels not applying
+2026-10-20 08:37,2026-10-20,A,Line 2,FIL-2,Filler faults,6,fill valve sticking
+2026-10-20 08:48,2026-10-20,A,Line 1,CAP-1,Capper faults,7,caps cross threading
+2026-10-20 09:48,2026-10-20,A,Line 1,FIL-1,Filler faults,12,bowl level alarm
+2026-10-20 12:51,2026-10-20,A,Line 2,CNV-2,Conveyor,16,jam at transfer
+2026-10-20 14:02,2026-10-20,B,Line 3,,Changeovers,27,changeover DS-0750-ECO to DS-0750
+2026-10-20 16:09,2026-10-20,B,Line 2,LAB-2,Labeler jams,8,labels skewed
+2026-10-20 16:25,2026-10-20,B,Line 3,,Other,23,forklift blocking line
+2026-10-20 18:18,2026-10-20,B,Line 2,CAP-2,Capper faults,19,missing caps
+2026-10-20 18:27,2026-10-20,B,Line 2,,Material short,44,out of corrugate
+2026-10-20 22:02,2026-10-20,C,Line 2,,Changeovers,40,changeover FS-0500 to FS-2000
+2026-10-20 22:25,2026-10-20,C,Line 1,,Other,15,waiting on QA release
+2026-10-21 00:08,2026-10-20,C,Line 3,CNV-3,Conveyor,23,jam at transfer
+2026-10-21 02:15,2026-10-20,C,Line 1,CAP-1,Capper faults,23,caps cross threading
+2026-10-21 03:53,2026-10-20,C,Line 2,CNV-2,Conveyor,16,bottles down on conveyor
+2026-10-21 07:58,2026-10-21,A,Line 1,CNV-1,Conveyor,10,conveyor backup
+2026-10-21 08:44,2026-10-21,A,Line 2,CAP-2,Capper faults,8,cap chute jam
+2026-10-21 12:35,2026-10-21,A,Line 3,FIL-3,Filler faults,29,"filler stopped, low product"
+2026-10-21 14:02,2026-10-21,B,Line 2,,Changeovers,78,changeover FS-2000 to FS-0500
+2026-10-21 15:57,2026-10-21,B,Line 3,CAP-3,Capper faults,3,cap chute jam
+2026-10-21 17:41,2026-10-21,B,Line 3,FIL-3,Filler faults,13,"filler e-stop, reset"
+2026-10-21 19:22,2026-10-21,B,Line 2,CAP-2,Capper faults,22,capper head 3 slipping
+2026-10-21 23:28,2026-10-21,C,Line 3,LAB-3,Labeler jams,10,labels skewed
+2026-10-21 23:50,2026-10-21,C,Line 2,FIL-2,Filler faults,8,"filler stopped, low product"
+2026-10-22 00:53,2026-10-21,C,Line 2,LAB-2,Labeler jams,5,labels not applying
+2026-10-22 02:28,2026-10-21,C,Line 1,CAP-1,Capper faults,22,cap chute jam
+2026-10-22 03:10,2026-10-21,C,Line 1,,Other,11,forklift blocking line
+2026-10-22 04:33,2026-10-21,C,Line 1,CNV-1,Conveyor,9,bottles down on conveyor
+2026-10-22 08:19,2026-10-22,A,Line 3,FIL-3,Filler faults,7,"filler e-stop, reset"
+2026-10-22 09:50,2026-10-22,A,Line 1,CPK-1,Case packer faults,24,vacuum low
+2026-10-22 11:58,2026-10-22,A,Line 2,CNV-2,Conveyor,14,bottles down on conveyor
+2026-10-22 15:08,2026-10-22,B,Line 1,CAP-1,Capper faults,6,missing caps
+2026-10-22 17:47,2026-10-22,B,Line 2,,Other,26,cleaning spill
+2026-10-22 18:21,2026-10-22,B,Line 3,CPK-3,Case packer faults,12,vacuum low
+2026-10-22 22:02,2026-10-22,C,Line 1,,Changeovers,27,changeover AC-1000 to AC-1000-LEM
+2026-10-22 22:11,2026-10-22,C,Line 1,CNV-1,Conveyor,3,conveyor backup
+2026-10-22 23:40,2026-10-22,C,Line 1,CAP-1,Capper faults,25,caps cross threading
+2026-10-23 01:54,2026-10-22,C,Line 2,CNV-2,Conveyor,8,conveyor backup
+2026-10-23 01:57,2026-10-22,C,Line 2,CAP-2,Capper faults,52,capper head 3 slipping
+2026-10-23 04:27,2026-10-22,C,Line 2,FIL-2,Filler faults,30,bowl level alarm
+2026-10-23 04:34,2026-10-22,C,Line 3,CPK-3,Case packer faults,16,vacuum low
+2026-10-23 07:47,2026-10-23,A,Line 2,CAP-2,Capper faults,5,capper head 3 slipping
+2026-10-23 07:51,2026-10-23,A,Line 2,CAP-2,Capper faults,11,capper torque fault
+2026-10-23 09:14,2026-10-23,A,Line 2,,Other,5,forklift blocking line
+2026-10-23 11:36,2026-10-23,A,Line 3,FIL-3,Filler faults,9,"filler e-stop, reset"
+2026-10-23 14:02,2026-10-23,B,Line 1,,Changeovers,42,changeover AC-1000-LEM to AC-1000
+2026-10-23 14:02,2026-10-23,B,Line 3,,Changeovers,33,changeover DS-0750 to DS-0750-ECO
+2026-10-23 14:30,2026-10-23,B,Line 1,FIL-1,Filler faults,14,filler nozzle dripping
+2026-10-23 14:43,2026-10-23,B,Line 2,CAP-2,Capper faults,12,missing caps
+2026-10-23 22:54,2026-10-23,C,Line 1,,Other,12,cleaning spill
+2026-10-24 02:59,2026-10-23,C,Line 3,CPK-3,Case packer faults,28,vacuum low
+2026-10-24 04:44,2026-10-23,C,Line 1,CAP-1,Capper faults,10,caps cross threading
+2026-10-26 08:11,2026-10-26,A,Line 1,FIL-1,Filler faults,19,filler nozzle dripping
+2026-10-26 08:39,2026-10-26,A,Line 2,CAP-2,Capper faults,15,caps cross threading
+2026-10-26 10:04,2026-10-26,A,Line 3,CNV-3,Conveyor,7,guide rail loose
+2026-10-26 12:19,2026-10-26,A,Line 2,CAP-2,Capper faults,13,caps cross threading
+2026-10-26 14:02,2026-10-26,B,Line 1,,Changeovers,39,changeover AC-1000 to AC-1000-LEM
+2026-10-26 19:27,2026-10-26,B,Line 3,FIL-3,Filler faults,34,"filler e-stop, reset"
+2026-10-26 19:32,2026-10-26,B,Line 2,CPK-2,Case packer faults,13,glue fault
+2026-10-26 20:34,2026-10-26,B,Line 2,FIL-2,Filler faults,6,nozzle 7 not filling
+2026-10-26 22:02,2026-10-26,C,Line 1,,Changeovers,31,changeover AC-1000-LEM to AC-1000
+2026-10-26 22:28,2026-10-26,C,Line 3,,Other,31,power blip
+2026-10-26 23:51,2026-10-26,C,Line 3,CPK-3,Case packer faults,12,no case erected
+2026-10-27 01:08,2026-10-26,C,Line 1,CAP-1,Capper faults,10,capper head 3 slipping
+2026-10-27 01:23,2026-10-26,C,Line 3,CPK-3,Case packer faults,13,vacuum low
+2026-10-27 06:02,2026-10-27,A,Line 1,,Changeovers,33,changeover AC-1000 to AC-1000-LEM
+2026-10-27 09:19,2026-10-27,A,Line 3,CNV-3,Conveyor,4,guide rail loose
+2026-10-27 09:47,2026-10-27,A,Line 2,FIL-2,Filler faults,10,"filler stopped, low product"
+2026-10-27 12:17,2026-10-27,A,Line 1,FIL-1,Filler faults,12,"filler stopped, low product"
+2026-10-27 12:18,2026-10-27,A,Line 3,CAP-3,Capper faults,10,capper head 3 slipping
+2026-10-27 12:24,2026-10-27,A,Line 3,CAP-3,Capper faults,12,capper head 3 slipping
+2026-10-27 14:02,2026-10-27,B,Line 2,,Changeovers,44,changeover FS-0500 to FS-2000
+2026-10-27 19:12,2026-10-27,B,Line 1,FIL-1,Filler faults,20,fill valve sticking
+2026-10-27 22:39,2026-10-27,C,Line 2,CPK-2,Case packer faults,16,glue fault
+2026-10-27 23:06,2026-10-27,C,Line 3,,Other,56,power blip
+2026-10-28 03:51,2026-10-27,C,Line 1,CAP-1,Capper faults,16,caps cross threading
+2026-10-28 06:02,2026-10-28,A,Line 2,,Changeovers,83,changeover FS-2000 to FS-0500
+2026-10-28 08:43,2026-10-28,A,Line 2,,Other,12,forklift blocking line
+2026-10-28 08:44,2026-10-28,A,Line 3,CNV-3,Conveyor,11,conveyor backup
+2026-10-28 12:11,2026-10-28,A,Line 1,CPK-1,Case packer faults,13,glue fault
+2026-10-28 15:37,2026-10-28,B,Line 2,,Other,25,waiting on QA release
+2026-10-28 17:59,2026-10-28,B,Line 1,CNV-1,Conveyor,12,guide rail loose
+2026-10-29 02:51,2026-10-28,C,Line 1,CAP-1,Capper faults,12,cap chute jam
+2026-10-29 06:02,2026-10-29,A,Line 3,,Changeovers,24,changeover DS-0750-ECO to DS-0750
+2026-10-29 06:48,2026-10-29,A,Line 3,CAP-3,Capper faults,16,capper head 3 slipping
+2026-10-29 08:13,2026-10-29,A,Line 1,CNV-1,Conveyor,9,guide rail loose
+2026-10-29 11:19,2026-10-29,A,Line 3,CNV-3,Conveyor,17,jam at transfer
+2026-10-29 11:20,2026-10-29,A,Line 3,LAB-3,Labeler jams,13,labels skewed
+2026-10-29 11:30,2026-10-29,A,Line 1,,Other,9,power blip
+2026-10-29 12:43,2026-10-29,A,Line 3,LAB-3,Labeler jams,4,label sensor fault
+2026-10-29 14:02,2026-10-29,B,Line 1,,Changeovers,39,changeover AC-1000-LEM to AC-1000
+2026-10-29 14:02,2026-10-29,B,Line 2,,Changeovers,52,changeover FS-0500 to FS-2000
+2026-10-29 14:35,2026-10-29,B,Line 2,FIL-2,Filler faults,14,"filler e-stop, reset"
+2026-10-29 15:35,2026-10-29,B,Line 2,CAP-2,Capper faults,16,cap chute jam
+2026-10-29 16:51,2026-10-29,B,Line 2,CAP-2,Capper faults,11,caps cross threading
+2026-10-29 17:09,2026-10-29,B,Line 2,CNV-2,Conveyor,8,bottles down on conveyor
+2026-10-29 17:33,2026-10-29,B,Line 1,,Other,48,cleaning spill
+2026-10-29 19:07,2026-10-29,B,Line 1,FIL-1,Filler faults,11,"filler stopped, low product"
+2026-10-29 20:58,2026-10-29,B,Line 3,CPK-3,Case packer faults,13,"case packer stopped, flaps"
+2026-10-29 22:40,2026-10-29,C,Line 2,,Other,9,waiting on QA release
+2026-10-29 22:53,2026-10-29,C,Line 1,FIL-1,Filler faults,10,"filler e-stop, reset"
+2026-10-29 23:05,2026-10-29,C,Line 2,CPK-2,Case packer faults,162,"case packer down, pump"
+2026-10-30 00:18,2026-10-29,C,Line 1,FIL-1,Filler faults,27,"filler stopped, low product"
+2026-10-30 01:47,2026-10-29,C,Line 2,CPK-2,Waiting on maintenance,60,waiting on bearing from vendor
+2026-10-30 03:22,2026-10-29,C,Line 1,CAP-1,Capper faults,13,caps cross threading
+2026-10-30 06:02,2026-10-30,A,Line 1,,Changeovers,37,changeover AC-1000 to AC-1000-LEM
+2026-10-30 07:51,2026-10-30,A,Line 1,FIL-1,Filler faults,12,fill valve sticking
+2026-10-30 09:20,2026-10-30,A,Line 1,,Other,8,forklift blocking line
+2026-10-30 09:30,2026-10-30,A,Line 1,LAB-1,Labeler jams,5,web break
+2026-10-30 14:02,2026-10-30,B,Line 3,,Changeovers,26,changeover DS-0750 to DS-0750-ECO
+2026-10-30 14:11,2026-10-30,B,Line 2,,Other,12,forklift blocking line
+2026-10-30 14:59,2026-10-30,B,Line 1,LAB-1,Labeler jams,13,label jam
+2026-10-30 16:17,2026-10-30,B,Line 2,LAB-2,Labeler jams,8,web break
+2026-10-30 18:10,2026-10-30,B,Line 2,CNV-2,Conveyor,11,conveyor backup
+2026-10-30 18:25,2026-10-30,B,Line 1,LAB-1,Labeler jams,9,label jam
+2026-10-30 19:52,2026-10-30,B,Line 1,,Other,11,waiting on QA release
+2026-10-30 20:02,2026-10-30,B,Line 1,CNV-1,Conveyor,8,conveyor backup
+2026-10-30 22:10,2026-10-30,C,Line 1,CNV-1,Conveyor,12,bottles down on conveyor
+2026-10-31 02:07,2026-10-30,C,Line 1,FIL-1,Filler faults,38,fill valve sticking
+2026-10-31 03:25,2026-10-30,C,Line 1,LAB-1,Labeler jams,12,label jam
+2026-11-02 09:18,2026-11-02,A,Line 1,FIL-1,Filler faults,19,fill valve sticking
+2026-11-02 14:02,2026-11-02,B,Line 1,,Changeovers,35,changeover AC-1000-LEM to AC-1000
+2026-11-02 14:02,2026-11-02,B,Line 2,,Changeovers,75,changeover FS-2000 to FS-0500
+2026-11-02 17:32,2026-11-02,B,Line 2,,Other,21,forklift blocking line
+2026-11-02 22:02,2026-11-02,C,Line 1,,Changeovers,35,changeover AC-1000 to AC-1000-LEM
+2026-11-03 06:02,2026-11-03,A,Line 1,,Changeovers,35,changeover AC-1000-LEM to AC-1000
+2026-11-03 07:09,2026-11-03,A,Line 1,CNV-1,Conveyor,34,jam at transfer
+2026-11-03 16:42,2026-11-03,B,Line 1,FIL-1,Filler faults,30,nozzle 7 not filling
+2026-11-04 02:22,2026-11-03,C,Line 3,LAB-3,Labeler jams,35,web break
+2026-11-04 02:42,2026-11-03,C,Line 3,LAB-3,Labeler jams,21,liner breaking
+2026-11-04 06:02,2026-11-04,A,Line 1,,Changeovers,35,changeover AC-1000 to AC-1000-LEM
+2026-11-04 07:37,2026-11-04,A,Line 3,LAB-3,Labeler jams,31,label jam again
+2026-11-04 07:56,2026-11-04,A,Line 3,LAB-3,Labeler jams,32,label jam
+2026-11-04 09:19,2026-11-04,A,Line 2,,Other,19,waiting on QA release
+2026-11-04 14:02,2026-11-04,B,Line 2,,Changeovers,43,changeover FS-0500 to FS-2000
+2026-11-04 14:02,2026-11-04,B,Line 3,,Changeovers,36,changeover DS-0750-ECO to DS-0750
+2026-11-04 19:13,2026-11-04,B,Line 3,LAB-3,Waiting on maintenance,31,"tech on labeler, line 3 waiting"
+2026-11-04 19:38,2026-11-04,B,Line 3,LAB-3,Labeler jams,33,label jam
+2026-11-04 20:12,2026-11-04,B,Line 3,LAB-3,Labeler jams,26,label jam
+2026-11-04 22:13,2026-11-04,C,Line 1,FIL-1,Filler faults,34,fill valve sticking
+2026-11-04 22:52,2026-11-04,C,Line 3,LAB-3,Labeler jams,28,label jam again
+2026-11-05 01:49,2026-11-04,C,Line 3,LAB-3,Labeler jams,33,"labels wrinkling, jam"
+2026-11-05 07:48,2026-11-05,A,Line 3,LAB-3,Labeler jams,36,label jam
+2026-11-05 09:28,2026-11-05,A,Line 3,LAB-3,Waiting on maintenance,33,"tech on labeler, line 3 waiting"
+2026-11-05 11:56,2026-11-05,A,Line 1,FIL-1,Filler faults,30,"filler e-stop, reset"
+2026-11-05 15:05,2026-11-05,B,Line 2,,Material short,188,"no caps, delivery late"
+2026-11-05 18:48,2026-11-05,B,Line 3,LAB-3,Labeler jams,28,"labels wrinkling, jam"
+2026-11-05 22:02,2026-11-05,C,Line 3,,Changeovers,35,changeover DS-0750 to DS-0750-ECO
+2026-11-06 01:59,2026-11-05,C,Line 3,LAB-3,Labeler jams,28,label jam
+2026-11-06 04:28,2026-11-05,C,Line 3,LAB-3,Waiting on maintenance,32,"tech on labeler, line 3 waiting"
+2026-11-06 06:02,2026-11-06,A,Line 3,,Changeovers,36,changeover DS-0750-ECO to DS-0750
+2026-11-06 06:45,2026-11-06,A,Line 2,,Other,18,operator break coverage
+2026-11-06 07:28,2026-11-06,A,Line 3,LAB-3,Labeler jams,30,liner breaking
+2026-11-06 15:34,2026-11-06,B,Line 3,LAB-3,Labeler jams,20,label jam again
+2026-11-06 15:38,2026-11-06,B,Line 1,FIL-1,Filler faults,29,bowl level alarm
+2026-11-07 01:50,2026-11-06,C,Line 1,CNV-1,Conveyor,27,conveyor backup
+2026-11-07 02:09,2026-11-06,C,Line 3,LAB-3,Labeler jams,31,liner breaking

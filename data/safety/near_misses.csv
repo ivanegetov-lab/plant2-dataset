@@ -1,0 +1,47 @@
+date,shift,area,source,description
+2026-08-10,C,Maintenance shop,Verbal,Extension cord across walkway
+2026-08-11,A,Line 1,App,Guard left open on capper after jam clear
+2026-08-20,B,Line 2,App,Operator reached into case packer without stopping it
+2026-08-21,A,Dock door 4,Verbal,Pedestrian walked behind reversing forklift at dock 4
+2026-08-25,B,Maintenance shop,Verbal,Grinder guard missing
+2026-08-25,B,Warehouse aisle 3,Verbal,"Light out, aisle dark"
+2026-08-28,A,Batching,App,Chemical drum not labeled
+2026-08-28,B,Dock door 4,Verbal,Pallet stacked blocking view at dock 4 corner
+2026-09-01,B,Dock door 4,App,Pedestrian walked behind reversing forklift at dock 4
+2026-09-01,B,Line 2,App,Operator reached into case packer without stopping it
+2026-09-02,B,Line 1,App,Guard left open on capper after jam clear
+2026-09-03,A,Line 2,Verbal,"Bottle broke on conveyor, glass-like plastic shards"
+2026-09-09,B,Line 3,Verbal,Slippery floor by labeler from adhesive
+2026-09-09,C,Dock door 2,Verbal,Dock plate left up at door 2
+2026-09-11,B,Line 1,Verbal,Guard left open on capper after jam clear
+2026-09-14,C,Dock door 4,Verbal,Near collision forklift and person at dock 4 exit
+2026-09-18,B,Line 2,Verbal,"Bottle broke on conveyor, glass-like plastic shards"
+2026-09-18,C,Warehouse aisle 3,Verbal,Pallet overhanging rack beam
+2026-09-21,B,Maintenance shop,Verbal,Grinder guard missing
+2026-09-24,C,Dock door 2,Verbal,"Trailer creep at dock 2, wheel chock not set"
+2026-09-24,C,Warehouse aisle 3,App,"Light out, aisle dark"
+2026-09-29,B,Dock door 4,Verbal,Near collision forklift and person at dock 4 exit
+2026-09-30,B,Dock door 4,Verbal,Forklift horn not used at dock 4 blind corner
+2026-09-30,C,Warehouse aisle 3,Verbal,Pallet overhanging rack beam
+2026-10-06,B,Dock door 4,App,Near collision forklift and person at dock 4 exit
+2026-10-06,B,Dock door 4,Verbal,Forklift horn not used at dock 4 blind corner
+2026-10-07,A,Line 1,Verbal,Guard left open on capper after jam clear
+2026-10-08,B,Line 1,Verbal,Spill near filler not marked
+2026-10-08,B,Line 2,App,"Bottle broke on conveyor, glass-like plastic shards"
+2026-10-13,B,Batching,App,Chemical drum not labeled
+2026-10-16,B,Dock door 4,Verbal,Pedestrian walked behind reversing forklift at dock 4
+2026-10-21,B,Dock door 2,Verbal,Dock plate left up at door 2
+2026-10-21,B,Line 1,Verbal,Guard left open on capper after jam clear
+2026-10-21,B,Line 3,App,Slippery floor by labeler from adhesive
+2026-10-22,C,Batching,Verbal,Hose under pressure disconnected
+2026-10-26,A,Warehouse aisle 3,Verbal,"Light out, aisle dark"
+2026-10-26,B,Dock door 4,Walkway card,Pallet stacked blocking view at dock 4 corner
+2026-10-28,B,Line 1,Walkway card,Spill near filler not marked
+2026-10-30,B,Dock door 4,Verbal,"Forklift came around the dock 4 corner fast, pedestrian had to step back"
+2026-11-02,B,Dock door 4,App,"Forklift came around the dock 4 corner fast, pedestrian had to step back"
+2026-11-03,A,Warehouse aisle 3,Walkway card,Pallet overhanging rack beam
+2026-11-03,B,Dock door 4,Verbal,Forklift horn not used at dock 4 blind corner
+2026-11-04,B,Dock door 4,Verbal,Pedestrian walked behind reversing forklift at dock 4
+2026-11-05,B,Line 3,Walkway card,Label roll fell off cart
+2026-11-05,C,Warehouse aisle 3,Walkway card,"Light out, aisle dark"
+2026-11-06,A,Maintenance shop,Walkway card,Extension cord across walkway
