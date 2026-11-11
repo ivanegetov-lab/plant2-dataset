@@ -68,6 +68,12 @@ For each one you find, write down:
 
 Use any approach: a spreadsheet, Python, a BI tool, an AI agent, or a mix. Send your findings to [Ivan Getov on LinkedIn](https://www.linkedin.com/in/ivan-getov-mba/) with a short note on how you found them. The answer key stays private so the challenge stays fair.
 
+## Worked examples
+
+Walkthroughs that use this data (none of them give away the challenge):
+
+- [One filler, three MTBFs](https://tools.getov.xyz/guides/mtbf-mttf): the Line 3 filler's MTBF from the downtime log, from work orders, and with a duplicate work order removed (34.7, 150.5 and 169.4 hours).
+
 ## Rules for using it
 
 - Everything here is **fictional**. The plant, products, suppliers, people and numbers were generated. Any match with a real company is a coincidence.
